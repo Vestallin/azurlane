@@ -1,14 +1,68 @@
 {# display/templates/ship.html #}
-{% load render_table from django_tables2 %}
 {% load static %}
 <!doctype html>
 <html>
 <head>
+    {% load bootstrap5 %}
+    {% bootstrap_css %}
+    {% bootstrap_javascript %}
+    <script src="{% static 'sortable.js' %}"></script>
 <title>List of Ships</title>
 <link rel="stylesheet" href="{%static 'tester.css' %}" />
 </head>
 <body>
     <h1> Hello There! </h1>
-    {% render_table table %}
+    <table class="sortable">
+      <thead>
+    <tr>
+       <th>Ship Name <br></th>
+       <th>Ship Class</th>
+       <th>Ship ID</th>
+       <th>HP</th>
+       <th>FP</th>
+       <th>TRP</th>
+       <th>AVI</th>
+       <th>AA</th>
+       <th>RLD</th>
+       <th>EVA</th>
+       <th>SPD</th>
+       <th>ACC</th>
+       <th>LCK</th>
+       <th>ASW</th>
+       <th>OIL</th>
+       <th>OXY</th>
+       <th>Ammo</th>
+       <th>Faction<br></th>
+       <th>Armor</th>
+       <th>Rarity<br></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for val in table %}
+    <tr>
+        <td>{{val.ship_name}}</td>
+        <td>{{val.class_name}}</td>
+        <td>{{val.sid}}</td>
+        <td>{{val.hp}}</td>
+        <td>{{val.fp}}</td>
+        <td>{{val.trp}}</td>
+        <td>{{val.avi}}</td>
+        <td>{{val.aa}}</td>
+        <td>{{val.rld}}</td>
+        <td>{{val.eva}}</td>
+        <td>{{val.spd}}</td>
+        <td>{{val.acc}}</td>
+        <td>{{val.lck}}</td>
+        <td>{{val.asw}}</td>
+        <td>{{val.oil}}</td>
+        <td>{{val.oxy}}</td>
+        <td>{{val.ammo}}</td>
+        <td>{{val.faction}}</td>
+        <td>{{val.armor}}</td>
+        <td>{{val.rarity}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 </body>
 </html>

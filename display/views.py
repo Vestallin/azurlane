@@ -1,11 +1,11 @@
+from django.http import HttpResponse
 from django.shortcuts import render
-
-# Create your views here.
+from django.template import loader
 from django_tables2 import SingleTableView
 from .models import Ship
 from .table import ShipTable
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 
-class ShipListView(SingleTableView):
-    model = Ship
-    table_class = ShipTable
-    template_name = 'ship.html'
+def showShip(request):
+    table= Ship.objects.all()
+    return render(request, 'ship.html', { 'table': table})

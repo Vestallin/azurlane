@@ -4,17 +4,16 @@ body {
 
 table, th, td {
     border: 1px solid;
-}
-td {
     text-align: center;
 }
+
 h1 {
     text-align: center;
 }
 table {
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    width: 95%;
 }
 tr:nth-child(even) {
     background-color: lightgrey;
@@ -22,3 +21,36 @@ tr:nth-child(even) {
 th {
     background-color: lightskyblue;
 }
+ul {
+    align-items: center;
+}
+
+.sortable th:hover::after {
+    color: inherit;
+    font-size: 1.2em;
+    content: '\A\A\00a0\025B8';
+  }
+  
+  .sortable th::after {
+    font-size: 1.2em;
+    color: transparent;
+    content: '\A\A\00a0\025B8';
+  }
+  
+  .sortable th.dir-d::after {
+    color: inherit;
+    content: '\A\A\00a0\025BE';
+  }
+  
+  .sortable th.dir-u::after {
+    color: inherit;
+    content: '\A\A\00a0\025B4';
+  }
+  
+  th.no-sort {
+    pointer-events: none;
+  }
+  
+  th.no-sort::after {
+    content: none;
+  }
