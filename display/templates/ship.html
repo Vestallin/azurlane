@@ -1,0 +1,14 @@
+{# display/templates/ship.html #}
+{% load render_table from django_tables2 %}
+{% load static %}
+<!doctype html>
+<html>
+<head>
+<title>List of Ships</title>
+<link rel="stylesheet" href="{%static 'tester.css' %}" />
+</head>
+<body>
+    <h1> Hello There! </h1>
+    {% render_table table %}
+</body>
+</html>
