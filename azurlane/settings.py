@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'bootstrap5',
     'django_extensions',
     'display',
-    'django_rename_app',
 ]
 
 MIDDLEWARE = [
