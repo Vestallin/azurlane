@@ -1,11 +1,13 @@
 {# display/templates/ship.html #}
 {% load static %}
+{% load color_filter %}
 <!doctype html>
 <html>
 <head>
     {% load bootstrap5 %}
     {% bootstrap_css %}
     {% bootstrap_javascript %}
+    
     <script src="{% static 'sortable.js' %}"></script>
 <title>List of Ships</title>
 <link rel="stylesheet" href="{%static 'tester.css' %}" />
@@ -18,6 +20,9 @@
        <th>Ship Name <br></th>
        <th>Ship Class</th>
        <th>Ship ID</th>
+       <th>Rarity<br></th>
+       <th>Faction<br></th>
+       <th>Armor</th>
        <th>HP</th>
        <th>FP</th>
        <th>TRP</th>
@@ -32,9 +37,6 @@
        <th>OIL</th>
        <th>OXY</th>
        <th>Ammo</th>
-       <th>Faction<br></th>
-       <th>Armor</th>
-       <th>Rarity<br></th>
     </tr>
   </thead>
   <tbody>
@@ -43,6 +45,9 @@
         <td>{{val.ship_name}}</td>
         <td>{{val.class_name}}</td>
         <td>{{val.sid}}</td>
+        <td class="{{val.rarity|color_filter}}">{{val.rarity}}</td>
+        <td>{{val.faction}}</td>
+        <td>{{val.armor}}</td>
         <td>{{val.hp}}</td>
         <td>{{val.fp}}</td>
         <td>{{val.trp}}</td>
@@ -57,9 +62,6 @@
         <td>{{val.oil}}</td>
         <td>{{val.oxy}}</td>
         <td>{{val.ammo}}</td>
-        <td>{{val.faction}}</td>
-        <td>{{val.armor}}</td>
-        <td>{{val.rarity}}</td>
     </tr>
     {% endfor %}
   </tbody>

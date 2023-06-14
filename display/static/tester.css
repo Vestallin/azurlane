@@ -15,9 +15,6 @@ table {
     margin-right: auto;
     width: 95%;
 }
-tr:nth-child(even) {
-    background-color: lightgrey;
-}
 th {
     background-color: lightskyblue;
 }
@@ -53,4 +50,24 @@ ul {
   
   th.no-sort::after {
     content: none;
+  }
+
+  .common {
+    background-color: lightgrey;
+  }
+
+  .rare {
+    background-color: lightskyblue;
+  }
+
+  .elite {
+    background-color: violet;
+  }
+
+  .srare {
+    background-color: gold;
+  }
+
+  .urare {
+    background: linear-gradient(120deg,#fbffca,#baffbf,#a7efff,#ffabff);
   }
