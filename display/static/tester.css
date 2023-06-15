@@ -10,7 +10,7 @@ table, th, td {
 
 .banner {
     text-align: center;
-    background-image: src("banner.png");
+    background-image: url("banner.png");
     background-size: 100%;
     padding: 40px;
 }
