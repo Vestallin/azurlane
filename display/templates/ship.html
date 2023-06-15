@@ -7,8 +7,26 @@
     {% load bootstrap5 %}
     {% bootstrap_css %}
     {% bootstrap_javascript %}
-    
-    <script src="{% static 'sortable.js' %}"></script>
+
+    <link rel="stylesheet" href="{% static '/tablesorter-master/dist/css/theme.default.css' %}">
+    <!-- load jQuery and tablesorter scripts -->
+    <script type="text/javascript" src="{% static 'jquery-3.7.0.js'%}"></script>
+    <script type="text/javascript" src="{% static '/tablesorter-master/dist/js/jquery.tablesorter.js' %}"></script>
+    <!-- tablesorter widgets (optional) -->
+    <script type="text/javascript" src="{% static '/tablesorter-master/dist/js/jquery.tablesorter.widgets.js' %}"></script>
+
+    <script>
+      $(function() {
+        $('table').tablesorter();
+        
+        $('button').click(function() {
+          $('table').trigger('sortReset');
+            return false;
+        });
+      });
+
+    </script>
+
 <title>List of Ships</title>
 <link rel="stylesheet" href="{%static 'tester.css' %}" />
 </head>
@@ -20,7 +38,9 @@
     </div>
   </div>
   <br>
-    <table class="sortable">
+    <button class="button"> Reset Sort </button>
+    <br>
+    <table id="table" class="tablesorter">
       <thead>
     <tr>
        <th>Ship Name <br></th>

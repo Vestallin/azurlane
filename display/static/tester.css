@@ -30,6 +30,7 @@ table {
 }
 th {
     background-color: #749cf2;
+    padding: 10px;
 }
 
 ul {
@@ -41,52 +42,32 @@ ul {
   text-decoration: none;
   font-style: italic;
 }
-.sortable th:hover::after {
-    color: inherit;
-    font-size: 1.2em;
-    content: '\A\A\00a0\025B8';
-  }
-  
-  .sortable th::after {
-    font-size: 1.2em;
-    color: transparent;
-    content: '\A\A\00a0\025B8';
-  }
-  
-  .sortable th.dir-d::after {
-    color: inherit;
-    content: '\A\A\00a0\025BE';
-  }
-  
-  .sortable th.dir-u::after {
-    color: inherit;
-    content: '\A\A\00a0\025B4';
-  }
-  
-  th.no-sort {
-    pointer-events: none;
-  }
-  
-  th.no-sort::after {
-    content: none;
-  }
 
   .common {
-    background-color: lightgrey;
+    background: lightgrey !important;
   }
 
   .rare {
-    background-color: lightskyblue;
+    background: lightskyblue !important;
   }
 
   .elite {
-    background-color: violet;
+    background: violet !important;
   }
 
   .srare {
-    background-color: gold;
+    background: gold !important;
   }
 
   .urare {
-    background: linear-gradient(120deg,#fbffca,#baffbf,#a7efff,#ffabff);
+    background: linear-gradient(120deg,#fbffca,#baffbf,#a7efff,#ffabff) !important;
+  }
+  
+  .button {
+    background: red;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    color: azure;
   }
