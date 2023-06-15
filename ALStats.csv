@@ -1,117 +1,119 @@
 ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,Faction,Drop,Acquisition,Build,Notes
-001,DD,Universal Bullin,Elite,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal,,Weekly/exchange,,
-002,DD,Prototype Bullin Mk2,Super Rare,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal,,Weekly/exchange,,
-003,DD,Specialized Bulin MKIII,Ultra Rare,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal,,Prototype Shop,,
-004,DD,Dewey,Rare,1687,75,283,0,189,191,210,Light,44,194,72,187,8,0,0,Eagle Union,13-3,Drop Only,,
-005,DD,Cassin,Common,1777,77,287,0,171,193,210,Light,44,205,66,184,7,0,0,Eagle Union,1-3,Light,0:23:00,
-005,DD,Cassin (R),Rare,1942,102,297,0,171,213,235,Light,47,205,66,184,7,0,0,Eagle Union,Retrofit,,,
-006,DD,Downes,Common,1777,77,287,0,171,193,210,Light,44,205,63,184,7,0,0,Eagle Union,1-3,Light,0:23:00,
-006,DD,Downes (R),Rare,1942,102,297,0,171,213,235,Light,47,205,63,184,7,0,0,Eagle Union,Retrofit,,,
-007,DD,Gridley,Rare,1854,74,444,0,177,204,210,Light,46,218,72,204,8,0,0,Eagle Union,2-2,Requisition,,
-008,DD,Craven,Common,1818,73,434,0,175,199,210,Light,46,218,72,195,8,0,0,Eagle Union,1-1,Light,0:25:00,
-009,DD,McCall,Common,1766,73,434,0,175,199,210,Light,43,218,69,195,8,0,0,Eagle Union,1-1,Light,0:25:00,
-010,DD,Maury,Elite,1853,77,454,0,182,210,256,Light,43,218,69,206,9,0,0,Eagle Union,,Light,0:25:00,Unlocks with 10 Star Collection with Gridley class ships
-011,DD,Fletcher,Rare,2128,87,287,0,176,199,207,Light,43,212,73,209,8,0,0,Eagle Union,2-3,Light,0:28:00,Sortie with other Fletcher DDs
-013,DD,Charles Ausburne,Elite,2164,88,295,0,182,218,205,Light,42,233,82,215,9,0,0,Eagle Union,3-2,Requisition,,
-014,DD,Thatcher,Rare,2086,87,287,0,176,212,205,Light,42,222,65,209,8,0,0,Eagle Union,2-3,Requisition,,
-015,DD,Aulick,Common,2046,84,282,0,174,207,205,Light,42,222,62,206,7,0,0,Eagle Union,1-2,Light,0:28:00,
-016,DD,Foote,Common,2046,84,282,0,174,199,205,Light,42,222,67,206,7,0,0,Eagle Union,1-2,Light,0:28:00,
-017,DD,Spence,Common,2046,84,282,0,174,199,205,Light,42,222,20,206,7,0,0,Eagle Union,1-2,Light,0:28:00,
-018,DD,Benson,Rare,1870,89,324,0,175,207,210,Light,45,207,72,196,8,0,0,Eagle Union,,Guild Shop,,
-019,DD,Laffey,Elite,2029,102,306,0,180,223,210,Light,45,230,18,202,9,0,0,Eagle Union,2-2,Light,0:27:00,
-019,DD,Laffey (R),Super Rare,2194,162,346,0,180,223,250,Light,45,230,18,202,9,0,0,Eagle Union,Retrofit,,,
-026,DD,Sims,Rare,1859,82,290,0,175,207,206,Light,42,200,45,211,8,0,0,Eagle Union,3-2,Requisition,,
-026,DD,Sims (R),Elite,2069,112,290,0,265,222,206,Light,45,200,45,211,8,0,0,Eagle Union,Retrofit,,,
-027,DD,Hammann,Rare,1859,82,290,0,175,207,206,Light,42,200,47,211,8,0,0,Eagle Union,3-2,Light,0:26:00,
-027,DD,Hammann (R),Elite,2069,97,290,0,265,227,206,Light,45,200,47,211,8,0,0,Eagle Union,Retrofit,,,
-028,DD,Eldridge,Super Rare,1762,82,386,0,187,234,271,Light,25,218,75,229,10,0,0,Eagle Union,,Merit Shop,,
-029,CL,Omaha,Common,3312,144,210,0,287,185,127,Light,35,156,67,82,8,0,0,Eagle Union,1-4,All,1:05:00,
-030,CL,Raleigh,Common,3312,144,210,0,287,185,127,Light,35,156,82,82,8,0,0,Eagle Union,1-4,All,1:05:00,
-031,CL,Brooklyn,Rare,3550,166,0,0,313,183,106,Light,32,162,55,100,9,0,0,Eagle Union,2-2,Light,1:15:00,
-032,CL,Phoenix,Rare,3550,166,0,0,313,183,106,Light,32,162,88,97,9,0,0,Eagle Union,4-1,All,1:15:00,
-033,CL,Helena,Elite,3688,174,0,0,323,188,106,Light,32,180,33,111,10,0,0,Eagle Union,5-1,Merit & Guild Shop,,
-033,CL,Helena (R),Super Rare,3928,184,0,0,413,193,106,Light,32,195,33,111,10,0,0,Eagle Union,Retrofit,,,
-034,CL,Atlanta,Rare,3598,131,159,0,431,181,112,Light,32,173,12,190,9,0,0,Eagle Union,5-2,All,1:10:00,
-035,CL,Juneau,Rare,3598,131,159,0,431,181,112,Light,32,173,18,190,9,0,0,Eagle Union,5-2,Light,1:10:00,"Tragic waifu, must protect"
-036,CL,San Diego,Super Rare,3842,139,170,0,458,193,112,Light,32,173,85,204,11,0,0,Eagle Union,,"Light, Requisition",1:10:00,Memes
-036,CL,San Diego (R),Ultra Rare,4082,184,170,0,568,213,112,Light,32,173,85,204,11,0,0,Eagle Union,Retrofit,,,"No longer memes, serious business"
-037,CL,Cleveland,Elite,4406,167,0,0,330,191,109,Light,32,168,71,102,10,0,0,Eagle Union,4-4,"Requisition, Guild",,
-038,CL,Columbia,Elite,4406,170,0,0,330,190,109,Light,32,167,70,102,10,0,0,Eagle Union,11-4 (BN),Drop Only,,(BN) Indicates boss node only drop
-039,CA,Pensacola,Common,3366,235,0,0,202,162,57,Light,26,121,75,0,9,0,0,Eagle Union,2-1,"Heavy, Special",1:20:00,
-040,CA,Salt Lake City,Common,3366,235,0,0,202,162,57,Light,26,121,71,0,9,0,0,Eagle Union,8-3,Drop Only,,
-041,CA,Northampton,Rare,3424,243,0,0,209,169,55,Light,26,125,27,0,10,0,0,Eagle Union,3-1,"Heavy, Special",1:40:00,
-042,CA,Chicago,Rare,3471,243,0,0,209,169,55,Light,26,125,32,0,10,0,0,Eagle Union,3-1,"Heavy, Special",1:40:00,
-043,CA,Houston,Elite,3525,250,0,0,215,174,55,Light,26,125,49,0,11,0,0,Eagle Union,3-1,"Heavy, Special",1:40:00,
-044,CA,Portland,Rare,4671,207,0,0,251,172,61,Medium,26,129,78,0,10,0,0,Eagle Union,3-4,"Heavy, Special",1:50:00,Pair with Indy
-044,CA,Portland (R),Elite,5461,237,0,0,266,172,81,Medium,26,129,78,0,10,0,0,Eagle Union,Retrofit,,,Doesn't need Indy anymore
-045,CA,Indianapolis,Elite,4843,213,0,0,257,177,61,Medium,26,129,23,0,11,0,0,Eagle Union,3-3,"Heavy, Special",1:50:00,
-046,CA,Astoria,Elite,3971,221,0,0,231,163,59,Medium,26,125,15,0,11,0,0,Eagle Union,,Core Data,,"""Prelude Under the Moon"" event mission reward"
-047,CA,Quincy,Elite,4107,221,0,0,235,163,59,Medium,26,129,9,0,11,0,0,Eagle Union,,Merit Shop,,"""Prelude Under the Moon"" event login reward"
-048,CA,Vincennes,Elite,4107,221,0,0,235,163,59,Medium,26,125,12,0,11,0,0,Eagle Union,,Merit Shop,,"""Prelude Under the Moon"" event daily reward"
-049,CA,Wichita,Elite,3795,271,0,0,227,182,51,Light,26,135,70,0,11,0,0,Eagle Union,,"Heavy, Special",2:30:00,Unlocks with 12 stars with Brooklyn class collection
-050,CA,Baltimore,Super Rare,4697,274,0,0,266,186,59,Medium,26,139,56,0,12,0,0,Eagle Union,,Heavy,2:00:00,"""Ashen Simulacrum"" Event construction"
-052,BB,Nevada,Common,7140,383,0,0,206,134,26,Heavy,20,70,75,0,12,0,0,Eagle Union,2-2,Heavy,4:00:00,
-052,BB,Nevada (R),Rare,7380,393,0,0,246,154,26,Heavy,20,85,75,0,12,0,0,Eagle Union,Retrofit,,,
-053,BB,Oklahoma,Common,7121,383,0,0,206,134,26,Heavy,20,70,38,0,12,0,0,Eagle Union,2-2,Heavy,4:00:00,
-053,BB,Oklahoma (R),Rare,7361,393,0,0,251,154,26,Heavy,20,80,38,0,12,0,0,Eagle Union,Retrofit,,,
-054,BB,Pennsylvania,Rare,7366,395,0,0,217,139,28,Heavy,21,72,72,0,13,0,0,Eagle Union,2-2,Heavy,4:10:00,
-055,BB,Arizona,Elite,7307,405,0,0,223,141,28,Heavy,21,72,17,0,14,0,0,Eagle Union,2-2,Heavy,4:10:00,
-058,BB,Tennessee,Rare,7561,396,0,0,215,141,29,Heavy,21,71,51,0,13,0,0,Eagle Union,2-1,Heavy,4:20:00,
-059,BB,California,Rare,7561,396,0,0,215,141,29,Heavy,21,71,36,0,13,0,0,Eagle Union,2-1,Heavy,4:20:00,
-060,BB,Colorado,Elite,7633,415,0,0,221,151,31,Heavy,21,71,67,0,14,0,0,Eagle Union,,Guild Shop,,"""Fallen Wings"" event construction"
-061,BB,Maryland,Elite,7692,410,0,0,221,148,31,Heavy,21,66,70,0,14,0,0,Eagle Union,,Guild Shop,,"""Fallen Wings"" event construction"
-062,BB,West Virginia,Elite,7633,415,0,0,221,151,31,Heavy,21,72,61,0,14,0,0,Eagle Union,,Core Data,,"""Fallen Wings"" event mission drop/reward"
-063,BB,North Carolina,Super Rare,8038,426,0,0,409,161,34,Heavy,28,72,81,0,15,0,0,Eagle Union,,Heavy,4:50:00,"""Fallen Wings"" event drop"
-064,BB,Washington,Super Rare,8271,426,0,0,409,161,34,Heavy,28,72,89,0,15,0,0,Eagle Union,,Heavy,4:50:00,"""Fallen Wings"" event construction"
-065,BB,South Dakota,Super Rare,8221,419,0,0,409,161,34,Heavy,27,74,76,0,15,0,0,Eagle Union,,Merit Shop,,Pair with Washington
-068,BB,New Jersey,Ultra Rare,9745,453,0,0,438,172,40,Heavy,33,76,72,0,17,0,0,Eagle Union,,Limited,6:30:00,Mirror Involution event construction
-070,CVL,Long Island,Rare,4802,0,0,284,263,185,68,Medium,16,88,68,102,10,0,0,Eagle Union,1-4,Special,2:15:00,
-070,CVL,Long Island (R),Elite,5012,0,0,344,298,190,68,Medium,16,88,68,102,10,0,0,Eagle Union,Retrofit,,,
-071,CVL,Bogue,Common,4048,0,0,282,257,181,69,Medium,18,88,78,150,9,0,0,Eagle Union,2-1,Special,2:20:00,
-071,CVL,Bogue (R),Rare,4258,0,0,342,292,186,69,Medium,18,88,78,150,9,0,0,Eagle Union,Retrofit,,,
-072,CVL,Langley,Common,4566,0,0,207,251,125,83,Medium,15,83,32,97,9,0,0,Eagle Union,3-1,Special,2:00:00,Pair with other CVs to level them faster
-072,CVL,Langley (R),Rare,4806,0,0,267,286,130,83,Medium,15,83,32,97,9,0,0,Eagle Union,Retrofit,,,Also enhances reload on other CVLs
-073,CV,Lexington,Elite,7072,0,0,402,310,112,58,Medium,33,95,35,0,12,0,0,Eagle Union,2-4,Special,3:40:00,
-074,CV,Saratoga,Elite,7072,0,0,402,310,112,58,Medium,33,95,66,0,12,0,0,Eagle Union,4-1,Special,3:40:00,
-074,CV,Saratoga (R),Super Rare,7282,0,0,447,360,132,58,Medium,33,95,66,0,12,0,0,Eagle Union,Retrofit,,,"13 T1, 13 T2, 8 T3, 50 T3 Plane, 50 T3 Aux"
-075,CVL,Ranger,Common,4892,0,0,244,253,132,76,Medium,29,92,71,109,9,0,0,Eagle Union,3-1,Special,2:40:00,
-075,CVL,Ranger (R),Rare,5132,0,0,304,288,137,76,Medium,29,92,71,109,9,0,0,Eagle Union,Retrofit,,,
-076,CV,Yorktown,Elite,5933,0,0,401,324,123,56,Medium,32,98,39,0,12,0,0,Eagle Union,3-4,Special,4:20:00,
-077,CV,Enterprise,Super Rare,6339,0,0,435,337,134,64,Medium,32,110,93,0,13,0,0,Eagle Union,,"Special, Exchange",4:20:00,"""Lucky E"" skill OP if it procs"
-078,CV,Hornet,Elite,5960,0,0,406,313,123,56,Medium,32,98,15,0,12,0,0,Eagle Union,5-3,Special,4:20:00,
-079,CV,Wasp,Rare,5010,0,0,334,278,119,53,Medium,29,90,20,0,11,0,0,Eagle Union,,Core Data,,"""Fallen Wings"" event mission drop"
-080,AR,Vestal,Elite,4733,50,0,0,155,171,45,Light,16,111,79,0,10,0,0,Eagle Union,6-1,"Special, Exchange",2:00:00,
-081,DD,Amazon,Rare,1404,66,365,0,157,194,272,Light,44,210,72,179,8,0,0,Royal Navy,4-4,Light,0:19:00,XP bonus to DDs in same fleet
-081,DD,Amazon (R),Elite,1569,66,365,0,197,194,292,Light,47,210,72,219,8,0,0,Royal Navy,Retrofit,,,
-082,DD,Acasta,Rare,1404,69,365,0,157,196,269,Light,42,194,43,176,8,0,0,Royal Navy,,Light,0:19:00,"""Glorious Battle"" event mission reward"
-082,DD,Acasta (R),Elite,1569,69,405,0,172,196,304,Light,45,194,43,176,8,0,0,Royal Navy,Retrofit,,,
-083,DD,Ardent,Rare,1404,69,365,0,157,196,269,Light,42,194,35,176,8,0,0,Royal Navy,,Light,0:19:00,"""Glorious Battle"" event mission drop/reward"
-083,DD,Ardent (R),Elite,1569,69,405,0,172,196,304,Light,45,194,35,176,8,0,0,Royal Navy,Retrofit,,,Pair with CVs for bonus damage and protection
-086,DD,Beagle,Common,1382,66,359,0,153,193,269,Light,42,197,71,195,7,0,0,Royal Navy,2-4,Light,0:20:00,
-087,DD,Bulldog,Common,1382,66,359,0,153,193,269,Light,42,197,65,200,7,0,0,Royal Navy,2-4,Light,0:20:00,
-088,DD,Comet,Common,1393,69,354,0,153,193,270,Light,43,200,54,209,7,0,0,Royal Navy,1-1,Light,0:21:00,
-088,DD,Comet (R),Rare,1558,69,389,0,168,198,305,Light,46,200,54,209,7,0,0,Royal Navy,Retrofit,,,
-089,DD,Crescent,Common,1393,69,354,0,153,193,270,Light,43,200,35,209,7,0,0,Royal Navy,1-1,Light,0:21:00,
-089,DD,Crescent (R),Rare,1524,109,354,0,168,193,300,Light,46,205,35,209,7,0,0,Royal Navy,Retrofit,,,
-090,DD,Cygnet,Common,1393,69,354,0,153,193,270,Light,43,200,72,213,7,0,0,Royal Navy,1-1,Light,0:21:00,
-090,DD,Cygnet (R),Rare,1558,99,354,0,168,193,315,Light,46,200,72,213,7,0,0,Royal Navy,Retrofit,,,
-091,DD,Foxhound,Common,1406,72,355,0,153,194,269,Light,42,203,68,217,7,0,0,Royal Navy,1-2,Light,0:24:00,Vanguard DD reload passive
-091,DD,Foxhound (R),Rare,1571,107,355,0,168,194,309,Light,45,203,68,217,7,0,0,Royal Navy,Retrofit,,,Main fleet damage resist passive
-092,DD,Fortune,Rare,1436,73,362,0,157,197,269,Light,42,203,68,221,8,0,0,Royal Navy,3-2,Requisition,0:24:00,
-092,DD,Fortune (R),Elite,1601,108,362,0,172,197,309,Light,45,203,68,221,8,0,0,Royal Navy,Retrofit,,,Main fleet damage resist passive
-093,DD,Grenville,Elite,1555,87,369,0,168,204,270,Light,43,207,32,218,9,0,0,Royal Navy,,Merit Shop,,"""Winter's Crown"" event reward"
-094,DD,Glowworm,Elite,1446,80,375,0,168,204,270,Light,43,210,36,218,9,0,0,Royal Navy,5-2,Requisition,,No choice but to ram!
-096,DD,Hardy,Elite,1555,82,379,0,160,204,270,Light,43,222,40,195,9,0,0,Royal Navy,,Limited,0:26:00,"""Starry Sky Under the Arctic Fjord"" Event construction/reward"
+1,DD,Universal Bullin,Elite,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal,,Weekly/exchange,,
+2,DD,Prototype Bullin Mk2,Super Rare,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal,,Weekly/exchange,,
+3,DD,Specialized Bulin MKIII,Ultra Rare,237,23,23,23,23,118,118,Light,35,118,100,34,3,0,0,Universal,,Prototype Shop,,
+4,DD,Dewey,Rare,1687,75,283,0,189,191,210,Light,44,194,72,187,8,0,0,Eagle Union,13-3,Drop Only,,
+5,DD,Cassin,Common,1777,77,287,0,171,193,210,Light,44,205,66,184,7,0,0,Eagle Union,3-Jan,Light,0:23:00,
+5,DD,Cassin (R),Rare,1942,102,297,0,171,213,235,Light,47,205,66,184,7,0,0,Eagle Union,Retrofit,,,
+6,DD,Downes,Common,1777,77,287,0,171,193,210,Light,44,205,63,184,7,0,0,Eagle Union,3-Jan,Light,0:23:00,
+6,DD,Downes (R),Rare,1942,102,297,0,171,213,235,Light,47,205,63,184,7,0,0,Eagle Union,Retrofit,,,
+7,DD,Gridley,Rare,1854,74,444,0,177,204,210,Light,46,218,72,204,8,0,0,Eagle Union,2-Feb,Requisition,,
+8,DD,Craven,Common,1818,73,434,0,175,199,210,Light,46,218,72,195,8,0,0,Eagle Union,1-Jan,Light,0:25:00,
+9,DD,McCall,Common,1766,73,434,0,175,199,210,Light,43,218,69,195,8,0,0,Eagle Union,1-Jan,Light,0:25:00,
+10,DD,Maury,Elite,1853,77,454,0,182,210,256,Light,43,218,69,206,9,0,0,Eagle Union,,Light,0:25:00,Unlocks with 10 Star Collection with Gridley class ships
+11,DD,Fletcher,Rare,2128,87,287,0,176,199,207,Light,43,212,73,209,8,0,0,Eagle Union,3-Feb,Light,0:28:00,Sortie with other Fletcher DDs
+13,DD,Charles Ausburne,Elite,2164,88,295,0,182,218,205,Light,42,233,82,215,9,0,0,Eagle Union,2-Mar,Requisition,,
+13,DD,Charles Ausburne (R),Super Rare,2329,133,360,0,237,218,205,Light,42,233,82,225,9,0,0,Eagle Union,Retrofit,,,
+14,DD,Thatcher,Rare,2086,87,287,0,176,212,205,Light,42,222,65,209,8,0,0,Eagle Union,3-Feb,Requisition,,
+15,DD,Aulick,Common,2046,84,282,0,174,207,205,Light,42,222,62,206,7,0,0,Eagle Union,2-Jan,Light,0:28:00,
+16,DD,Foote,Common,2046,84,282,0,174,199,205,Light,42,222,67,206,7,0,0,Eagle Union,2-Jan,Light,0:28:00,
+17,DD,Spence,Common,2046,84,282,0,174,199,205,Light,42,222,20,206,7,0,0,Eagle Union,2-Jan,Light,0:28:00,
+18,DD,Benson,Rare,1870,89,324,0,175,207,210,Light,45,207,72,196,8,0,0,Eagle Union,,Guild Shop,,
+19,DD,Laffey,Elite,2029,102,306,0,180,223,210,Light,45,230,18,202,9,0,0,Eagle Union,2-Feb,Light,0:27:00,
+19,DD,Laffey (R),Super Rare,2194,162,346,0,180,223,250,Light,45,230,18,202,9,0,0,Eagle Union,Retrofit,,,
+26,DD,Sims,Rare,1859,82,290,0,175,207,206,Light,42,200,45,211,8,0,0,Eagle Union,2-Mar,Requisition,,
+26,DD,Sims (R),Elite,2069,112,290,0,265,222,206,Light,45,200,45,211,8,0,0,Eagle Union,Retrofit,,,
+27,DD,Hammann,Rare,1859,82,290,0,175,207,206,Light,42,200,47,211,8,0,0,Eagle Union,2-Mar,Light,0:26:00,
+27,DD,Hammann (R),Elite,2069,97,290,0,265,227,206,Light,45,200,47,211,8,0,0,Eagle Union,Retrofit,,,
+28,DD,Eldridge,Super Rare,1762,82,386,0,187,234,271,Light,25,218,75,229,10,0,0,Eagle Union,,Merit Shop,,
+29,CL,Omaha,Common,3312,144,210,0,287,185,127,Light,35,156,67,82,8,0,0,Eagle Union,4-Jan,All,1:05:00,
+30,CL,Raleigh,Common,3312,144,210,0,287,185,127,Light,35,156,82,82,8,0,0,Eagle Union,4-Jan,All,1:05:00,
+31,CL,Brooklyn,Rare,3550,166,0,0,313,183,106,Light,32,162,55,100,9,0,0,Eagle Union,2-Feb,Light,1:15:00,
+32,CL,Phoenix,Rare,3550,166,0,0,313,183,106,Light,32,162,88,97,9,0,0,Eagle Union,1-Apr,All,1:15:00,
+33,CL,Helena,Elite,3688,174,0,0,323,188,106,Light,32,180,33,111,10,0,0,Eagle Union,1-May,Merit & Guild Shop,,
+33,CL,Helena (R),Super Rare,3928,184,0,0,413,193,106,Light,32,195,33,111,10,0,0,Eagle Union,Retrofit,,,
+34,CL,Atlanta,Rare,3598,131,159,0,431,181,112,Light,32,173,12,190,9,0,0,Eagle Union,2-May,All,1:10:00,
+35,CL,Juneau,Rare,3598,131,159,0,431,181,112,Light,32,173,18,190,9,0,0,Eagle Union,2-May,Light,1:10:00,"Tragic waifu, must protect"
+35,CL,Juneau (R),Elite,3838,131,209,0,501,186,112,Light,32,173,18,220,9,0,0,Eagle Union,Retrofit,,,
+36,CL,San Diego,Super Rare,3842,139,170,0,458,193,112,Light,32,173,85,204,11,0,0,Eagle Union,,"Light, Requisition",1:10:00,Memes
+36,CL,San Diego (R),Ultra Rare,4082,184,170,0,568,213,112,Light,32,173,85,204,11,0,0,Eagle Union,Retrofit,,,"No longer memes, serious business"
+37,CL,Cleveland,Elite,4406,167,0,0,330,191,109,Light,32,168,71,102,10,0,0,Eagle Union,4-Apr,"Requisition, Guild",,
+38,CL,Columbia,Elite,4406,170,0,0,330,190,109,Light,32,167,70,102,10,0,0,Eagle Union,11-4 (BN),Drop Only,,(BN) Indicates boss node only drop
+39,CA,Pensacola,Common,3366,235,0,0,202,162,57,Light,26,121,75,0,9,0,0,Eagle Union,1-Feb,"Heavy, Special",1:20:00,
+40,CA,Salt Lake City,Common,3366,235,0,0,202,162,57,Light,26,121,71,0,9,0,0,Eagle Union,3-Aug,Drop Only,,
+41,CA,Northampton,Rare,3424,243,0,0,209,169,55,Light,26,125,27,0,10,0,0,Eagle Union,1-Mar,"Heavy, Special",1:40:00,
+42,CA,Chicago,Rare,3471,243,0,0,209,169,55,Light,26,125,32,0,10,0,0,Eagle Union,1-Mar,"Heavy, Special",1:40:00,
+43,CA,Houston,Elite,3525,250,0,0,215,174,55,Light,26,125,49,0,11,0,0,Eagle Union,1-Mar,"Heavy, Special",1:40:00,
+44,CA,Portland,Rare,4671,207,0,0,251,172,61,Medium,26,129,78,0,10,0,0,Eagle Union,4-Mar,"Heavy, Special",1:50:00,Pair with Indy
+44,CA,Portland (R),Elite,5461,237,0,0,266,172,81,Medium,26,129,78,0,10,0,0,Eagle Union,Retrofit,,,Doesn't need Indy anymore
+45,CA,Indianapolis,Elite,4843,213,0,0,257,177,61,Medium,26,129,23,0,11,0,0,Eagle Union,3-Mar,"Heavy, Special",1:50:00,
+46,CA,Astoria,Elite,3971,221,0,0,231,163,59,Medium,26,125,15,0,11,0,0,Eagle Union,,Core Data,,"""Prelude Under the Moon"" event mission reward"
+47,CA,Quincy,Elite,4107,221,0,0,235,163,59,Medium,26,129,9,0,11,0,0,Eagle Union,,Merit Shop,,"""Prelude Under the Moon"" event login reward"
+48,CA,Vincennes,Elite,4107,221,0,0,235,163,59,Medium,26,125,12,0,11,0,0,Eagle Union,,Merit Shop,,"""Prelude Under the Moon"" event daily reward"
+49,CA,Wichita,Elite,3795,271,0,0,227,182,51,Light,26,135,70,0,11,0,0,Eagle Union,,"Heavy, Special",2:30:00,Unlocks with 12 stars with Brooklyn class collection
+50,CA,Baltimore,Super Rare,4697,274,0,0,266,186,59,Medium,26,139,56,0,12,0,0,Eagle Union,,Heavy,2:00:00,"""Ashen Simulacrum"" Event construction"
+52,BB,Nevada,Common,7140,383,0,0,206,134,26,Heavy,20,70,75,0,12,0,0,Eagle Union,2-Feb,Heavy,4:00:00,
+52,BB,Nevada (R),Rare,7380,393,0,0,246,154,26,Heavy,20,85,75,0,12,0,0,Eagle Union,Retrofit,,,
+53,BB,Oklahoma,Common,7121,383,0,0,206,134,26,Heavy,20,70,38,0,12,0,0,Eagle Union,2-Feb,Heavy,4:00:00,
+53,BB,Oklahoma (R),Rare,7361,393,0,0,251,154,26,Heavy,20,80,38,0,12,0,0,Eagle Union,Retrofit,,,
+54,BB,Pennsylvania,Rare,7366,395,0,0,217,139,28,Heavy,21,72,72,0,13,0,0,Eagle Union,2-Feb,Heavy,4:10:00,
+55,BB,Arizona,Elite,7307,405,0,0,223,141,28,Heavy,21,72,17,0,14,0,0,Eagle Union,2-Feb,Heavy,4:10:00,
+58,BB,Tennessee,Rare,7561,396,0,0,215,141,29,Heavy,21,71,51,0,13,0,0,Eagle Union,1-Feb,Heavy,4:20:00,
+59,BB,California,Rare,7561,396,0,0,215,141,29,Heavy,21,71,36,0,13,0,0,Eagle Union,1-Feb,Heavy,4:20:00,
+60,BB,Colorado,Elite,7633,415,0,0,221,151,31,Heavy,21,71,67,0,14,0,0,Eagle Union,,Guild Shop,,"""Fallen Wings"" event construction"
+61,BB,Maryland,Elite,7692,410,0,0,221,148,31,Heavy,21,66,70,0,14,0,0,Eagle Union,,Guild Shop,,"""Fallen Wings"" event construction"
+62,BB,West Virginia,Elite,7633,415,0,0,221,151,31,Heavy,21,72,61,0,14,0,0,Eagle Union,,Core Data,,"""Fallen Wings"" event mission drop/reward"
+63,BB,North Carolina,Super Rare,8038,426,0,0,409,161,34,Heavy,28,72,81,0,15,0,0,Eagle Union,,Heavy,4:50:00,"""Fallen Wings"" event drop"
+64,BB,Washington,Super Rare,8271,426,0,0,409,161,34,Heavy,28,72,89,0,15,0,0,Eagle Union,,Heavy,4:50:00,"""Fallen Wings"" event construction"
+65,BB,South Dakota,Super Rare,8221,419,0,0,409,161,34,Heavy,27,74,76,0,15,0,0,Eagle Union,,Merit Shop,,Pair with Washington
+68,BB,New Jersey,Ultra Rare,9745,453,0,0,438,172,40,Heavy,33,76,72,0,17,0,0,Eagle Union,,Limited,6:30:00,Mirror Involution event construction
+70,CVL,Long Island,Rare,4802,0,0,284,263,185,68,Medium,16,88,68,102,10,0,0,Eagle Union,4-Jan,Special,2:15:00,
+70,CVL,Long Island (R),Elite,5012,0,0,344,298,190,68,Medium,16,88,68,102,10,0,0,Eagle Union,Retrofit,,,
+71,CVL,Bogue,Common,4048,0,0,282,257,181,69,Medium,18,88,78,150,9,0,0,Eagle Union,1-Feb,Special,2:20:00,
+71,CVL,Bogue (R),Rare,4258,0,0,342,292,186,69,Medium,18,88,78,150,9,0,0,Eagle Union,Retrofit,,,
+72,CVL,Langley,Common,4566,0,0,207,251,125,83,Medium,15,83,32,97,9,0,0,Eagle Union,1-Mar,Special,2:00:00,Pair with other CVs to level them faster
+72,CVL,Langley (R),Rare,4806,0,0,267,286,130,83,Medium,15,83,32,97,9,0,0,Eagle Union,Retrofit,,,Also enhances reload on other CVLs
+73,CV,Lexington,Elite,7072,0,0,402,310,112,58,Medium,33,95,35,0,12,0,0,Eagle Union,4-Feb,Special,3:40:00,
+74,CV,Saratoga,Elite,7072,0,0,402,310,112,58,Medium,33,95,66,0,12,0,0,Eagle Union,1-Apr,Special,3:40:00,
+74,CV,Saratoga (R),Super Rare,7282,0,0,447,360,132,58,Medium,33,95,66,0,12,0,0,Eagle Union,Retrofit,,,"13 T1, 13 T2, 8 T3, 50 T3 Plane, 50 T3 Aux"
+75,CVL,Ranger,Common,4892,0,0,244,253,132,76,Medium,29,92,71,109,9,0,0,Eagle Union,1-Mar,Special,2:40:00,
+75,CVL,Ranger (R),Rare,5132,0,0,304,288,137,76,Medium,29,92,71,109,9,0,0,Eagle Union,Retrofit,,,
+76,CV,Yorktown,Elite,5933,0,0,401,324,123,56,Medium,32,98,39,0,12,0,0,Eagle Union,4-Mar,Special,4:20:00,
+77,CV,Enterprise,Super Rare,6339,0,0,435,337,134,64,Medium,32,110,93,0,13,0,0,Eagle Union,,"Special, Exchange",4:20:00,"""Lucky E"" skill OP if it procs"
+78,CV,Hornet,Elite,5960,0,0,406,313,123,56,Medium,32,98,15,0,12,0,0,Eagle Union,3-May,Special,4:20:00,
+79,CV,Wasp,Rare,5010,0,0,334,278,119,53,Medium,29,90,20,0,11,0,0,Eagle Union,,Core Data,,"""Fallen Wings"" event mission drop"
+80,AR,Vestal,Elite,4733,50,0,0,155,171,45,Light,16,111,79,0,10,0,0,Eagle Union,1-Jun,"Special, Exchange",2:00:00,
+81,DD,Amazon,Rare,1404,66,365,0,157,194,272,Light,44,210,72,179,8,0,0,Royal Navy,4-Apr,Light,0:19:00,XP bonus to DDs in same fleet
+81,DD,Amazon (R),Elite,1569,66,365,0,197,194,292,Light,47,210,72,219,8,0,0,Royal Navy,Retrofit,,,
+82,DD,Acasta,Rare,1404,69,365,0,157,196,269,Light,42,194,43,176,8,0,0,Royal Navy,,Light,0:19:00,"""Glorious Battle"" event mission reward"
+82,DD,Acasta (R),Elite,1569,69,405,0,172,196,304,Light,45,194,43,176,8,0,0,Royal Navy,Retrofit,,,
+83,DD,Ardent,Rare,1404,69,365,0,157,196,269,Light,42,194,35,176,8,0,0,Royal Navy,,Light,0:19:00,"""Glorious Battle"" event mission drop/reward"
+83,DD,Ardent (R),Elite,1569,69,405,0,172,196,304,Light,45,194,35,176,8,0,0,Royal Navy,Retrofit,,,Pair with CVs for bonus damage and protection
+86,DD,Beagle,Common,1382,66,359,0,153,193,269,Light,42,197,71,195,7,0,0,Royal Navy,4-Feb,Light,0:20:00,
+87,DD,Bulldog,Common,1382,66,359,0,153,193,269,Light,42,197,65,200,7,0,0,Royal Navy,4-Feb,Light,0:20:00,
+88,DD,Comet,Common,1393,69,354,0,153,193,270,Light,43,200,54,209,7,0,0,Royal Navy,1-Jan,Light,0:21:00,
+88,DD,Comet (R),Rare,1558,69,389,0,168,198,305,Light,46,200,54,209,7,0,0,Royal Navy,Retrofit,,,
+89,DD,Crescent,Common,1393,69,354,0,153,193,270,Light,43,200,35,209,7,0,0,Royal Navy,1-Jan,Light,0:21:00,
+89,DD,Crescent (R),Rare,1524,109,354,0,168,193,300,Light,46,205,35,209,7,0,0,Royal Navy,Retrofit,,,
+90,DD,Cygnet,Common,1393,69,354,0,153,193,270,Light,43,200,72,213,7,0,0,Royal Navy,1-Jan,Light,0:21:00,
+90,DD,Cygnet (R),Rare,1558,99,354,0,168,193,315,Light,46,200,72,213,7,0,0,Royal Navy,Retrofit,,,
+91,DD,Foxhound,Common,1406,72,355,0,153,194,269,Light,42,203,68,217,7,0,0,Royal Navy,2-Jan,Light,0:24:00,Vanguard DD reload passive
+91,DD,Foxhound (R),Rare,1571,107,355,0,168,194,309,Light,45,203,68,217,7,0,0,Royal Navy,Retrofit,,,Main fleet damage resist passive
+92,DD,Fortune,Rare,1436,73,362,0,157,197,269,Light,42,203,68,221,8,0,0,Royal Navy,2-Mar,Requisition,0:24:00,
+92,DD,Fortune (R),Elite,1601,108,362,0,172,197,309,Light,45,203,68,221,8,0,0,Royal Navy,Retrofit,,,Main fleet damage resist passive
+93,DD,Grenville,Elite,1555,87,369,0,168,204,270,Light,43,207,32,218,9,0,0,Royal Navy,,Merit Shop,,"""Winter's Crown"" event reward"
+94,DD,Glowworm,Elite,1446,80,375,0,168,204,270,Light,43,210,36,218,9,0,0,Royal Navy,2-May,Requisition,,No choice but to ram!
+96,DD,Hardy,Elite,1555,82,379,0,160,204,270,Light,43,222,40,195,9,0,0,Royal Navy,,Limited,0:26:00,"""Starry Sky Under the Arctic Fjord"" Event construction/reward"
 100,DD,Hunter,Rare,1404,77,360,0,160,199,270,Light,43,215,24,190,8,0,0,Royal Navy,,Limited,,"""Starry Sky Under the Arctic Fjord"" Event reward"
-101,DD,Javelin,Elite,1619,82,379,0,164,210,270,Light,43,218,65,218,9,0,0,Royal Navy,2-1,Light,0:27:00,
+101,DD,Javelin,Elite,1619,82,379,0,164,210,270,Light,43,218,65,218,9,0,0,Royal Navy,1-Feb,Light,0:27:00,
 101,DD,Javelin (R),Super Rare,1784,92,434,0,164,210,310,Light,46,218,65,218,9,0,0,Royal Navy,Retrofit,,,
-102,DD,Juno,Rare,1573,77,369,0,159,204,270,Light,43,218,40,213,8,0,0,Royal Navy,2-1,Requisition,,
+102,DD,Juno,Rare,1573,77,369,0,159,204,270,Light,43,218,40,213,8,0,0,Royal Navy,1-Feb,Requisition,,
 103,DD,Vampire,Elite,1346,72,381,0,159,199,252,Light,40,187,42,210,9,0,0,Royal Navy,,Requisition,,
-104,CL,Leander,Common,3322,148,274,0,328,174,128,Light,32,149,44,127,8,0,0,Royal Navy,1-4,All,1:15:00,Vanguard cruiser firepower passive
+104,CL,Leander,Common,3322,148,274,0,328,174,128,Light,32,149,44,127,8,0,0,Royal Navy,4-Jan,All,1:15:00,Vanguard cruiser firepower passive
 104,CL,Leander (R),Rare,3562,198,309,0,328,179,128,Light,32,149,44,127,8,0,0,Royal Navy,Retrofit,,,
-105,CL,Achilles,Rare,3044,166,328,0,301,177,114,Light,32,152,54,130,9,0,0,Royal Navy,2-4,Light,1:15:00,
+105,CL,Achilles,Rare,3044,166,328,0,301,177,114,Light,32,152,54,130,9,0,0,Royal Navy,4-Feb,Light,1:15:00,
 105,CL,Achilles (R),Elite,3284,216,363,0,301,182,114,Light,32,152,54,130,9,0,0,Royal Navy,Retrofit,,,
-106,CL,Ajax,Rare,3044,166,328,0,301,177,114,Light,32,152,74,130,9,0,0,Royal Navy,2-4,All,1:15:00,
+106,CL,Ajax,Rare,3044,166,328,0,301,177,114,Light,32,152,74,130,9,0,0,Royal Navy,4-Feb,All,1:15:00,
 106,CL,Ajax (R),Elite,3284,216,363,0,301,182,114,Light,32,152,74,130,9,0,0,Royal Navy,Retrofit,,,
 107,CL,Dido,Super Rare,3831,160,180,0,396,196,114,Light,32,164,85,171,11,0,0,Royal Navy,,Light,0:55:00,"""Fight on, Royal Maids!"" Event construction"
 110,CL,Southampton,Rare,3773,153,276,0,314,174,119,Light,32,161,32,105,9,0,0,Royal Navy,,Light,1:25:00,Monthly Login Reward
@@ -119,63 +121,64 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 113,CL,Gloucester,Elite,3875,158,284,0,324,178,119,Light,32,161,45,143,11,0,0,Royal Navy,,Light,1:25:00,"""Fight on, Royal Maids!"" Event construction"
 114,CL,Edinburgh,Elite,4588,159,284,0,320,178,119,Light,32,164,37,102,10,0,0,Royal Navy,,Requisition,1:25:00,Equip with AP
 115,CL,Belfast,Super Rare,4062,181,344,0,299,185,113,Light,32,164,88,147,11,0,0,Royal Navy,,"Light, Exchange",1:25:00,Equip with HE
-116,CL,Arethusa,Rare,2896,158,274,0,331,190,119,Light,32,175,69,117,9,0,0,Royal Navy,3-1,Requisition,,
-117,CL,Galatea,Rare,2896,158,274,0,331,190,119,Light,32,175,26,94,9,0,0,Royal Navy,3-1,Requisition,,
+116,CL,Arethusa,Rare,2896,158,274,0,331,190,119,Light,32,175,69,117,9,0,0,Royal Navy,1-Mar,Requisition,,
+117,CL,Galatea,Rare,2896,158,274,0,331,190,119,Light,32,175,26,94,9,0,0,Royal Navy,1-Mar,Requisition,,
 118,CL,Aurora,Elite,2982,164,282,0,341,197,119,Light,32,176,84,110,10,0,0,Royal Navy,,Light,1:20:00,
-119,CA,London,Elite,3644,226,226,0,217,167,69,Light,25,120,62,0,11,0,0,Royal Navy,2-1,"Heavy, Special",1:30:00,Vanguard firepower passive
+119,CA,London,Elite,3644,226,226,0,217,167,69,Light,25,120,62,0,11,0,0,Royal Navy,1-Feb,"Heavy, Special",1:30:00,Vanguard firepower passive
 119,CA,London (R),Super Rare,3924,236,226,0,302,167,84,Light,25,140,62,0,11,0,0,Royal Navy,Retrofit,,,Very strong with DD secondary equipped
-120,CA,Shropshire,Rare,3542,221,218,0,212,162,69,Light,25,120,75,0,10,0,0,Royal Navy,4-2,"Heavy, Special",1:30:00,
-121,CA,Kent,Rare,3589,221,218,0,212,162,67,Light,25,120,71,0,10,0,0,Royal Navy,2-4,"Heavy, Special",1:30:00,
-122,CA,Suffolk,Rare,3554,221,218,0,212,162,67,Light,25,120,72,0,10,0,0,Royal Navy,2-4,"Heavy, Special",1:30:00,
+120,CA,Shropshire,Rare,3542,221,218,0,212,162,69,Light,25,120,75,0,10,0,0,Royal Navy,2-Apr,"Heavy, Special",1:30:00,
+120,CA,Shropshire (R),Elite,3822,276,248,0,212,167,69,Light,25,120,75,0,10,0,0,Royal Navy,Retrofit,,,
+121,CA,Kent,Rare,3589,221,218,0,212,162,67,Light,25,120,71,0,10,0,0,Royal Navy,4-Feb,"Heavy, Special",1:30:00,
+122,CA,Suffolk,Rare,3554,221,218,0,212,162,67,Light,25,120,72,0,10,0,0,Royal Navy,4-Feb,"Heavy, Special",1:30:00,
 122,CA,Suffolk (R),Elite,3834,276,248,0,212,167,67,Light,25,120,72,0,10,0,0,Royal Navy,Retrofit,,,
-123,CA,Norfolk,Rare,4727,180,143,0,247,162,71,Medium,25,120,69,0,10,0,0,Royal Navy,2-3,"Heavy, Special",1:30:00,
+123,CA,Norfolk,Rare,4727,180,143,0,247,162,71,Medium,25,120,69,0,10,0,0,Royal Navy,3-Feb,"Heavy, Special",1:30:00,
 124,CA,Dorsetshire,Elite,4865,185,248,0,255,167,71,Medium,25,120,33,0,10,0,0,Royal Navy,,"Heavy, Special",1:30:00,Unlocks with 20 Star collection with County-class ships.
-125,CA,York,Elite,3761,229,196,0,248,178,75,Medium,25,134,15,0,11,0,0,Royal Navy,6-2,Heavy,1:45:00,
+125,CA,York,Elite,3761,229,196,0,248,178,75,Medium,25,134,15,0,11,0,0,Royal Navy,2-Jun,Heavy,1:45:00,
 125,CA,York (R),Super Rare,4001,289,196,0,263,193,95,Medium,25,134,15,0,11,0,0,Royal Navy,Retrofit,,,
-126,CA,Exeter,Elite,3791,229,196,0,248,178,75,Medium,25,129,49,0,11,0,0,Royal Navy,6-2,Heavy,1:45:00,
+126,CA,Exeter,Elite,3791,229,196,0,248,178,75,Medium,25,129,49,0,11,0,0,Royal Navy,2-Jun,Heavy,1:45:00,
 126,CA,Exeter (R),Super Rare,4031,269,196,0,263,193,75,Medium,25,154,49,0,11,0,0,Royal Navy,Retrofit,,,
-127,BC,Renown,Elite,6356,381,0,0,282,158,38,Medium,32,74,85,0,13,0,0,Royal Navy,1-4,Heavy,4:10:00,
-128,BC,Repulse,Rare,6176,359,0,0,274,155,37,Medium,31,70,28,0,12,0,0,Royal Navy,1-4,Heavy,4:10:00,
+127,BC,Renown,Elite,6356,381,0,0,282,158,38,Medium,32,74,85,0,13,0,0,Royal Navy,4-Jan,Heavy,4:10:00,
+128,BC,Repulse,Rare,6176,359,0,0,274,155,37,Medium,31,70,28,0,12,0,0,Royal Navy,4-Jan,Heavy,4:10:00,
 129,BC,Hood,Super Rare,8637,347,0,0,330,161,38,Medium,31,70,38,0,14,0,0,Royal Navy,,"Heavy, Exchange",5:50:00,
-130,BB,Queen Elizabeth,Elite,7690,408,0,0,217,147,34,Heavy,24,70,25,0,14,0,0,Royal Navy,5-2,Heavy,4:10:00,Royal Navy fleet bonus passive
+130,BB,Queen Elizabeth,Elite,7690,408,0,0,217,147,34,Heavy,24,70,25,0,14,0,0,Royal Navy,2-May,Heavy,4:10:00,Royal Navy fleet bonus passive
 131,BB,Warspite,Super Rare,7968,431,0,0,224,161,34,Heavy,24,78,90,0,15,0,0,Royal Navy,,"Heavy, Exchange",4:10:00,
 131,BB,Warspite (R),Ultra Rare,8208,451,0,0,294,181,34,Heavy,24,103,90,99,15,0,0,Royal Navy,Retrofit,,,
-132,BB,Nelson,Elite,7836,412,0,0,223,151,34,Heavy,23,72,66,0,14,0,0,Royal Navy,2-3,Heavy,4:40:00,
-133,BB,Rodney,Elite,7811,412,0,0,223,151,32,Heavy,23,72,81,0,14,0,0,Royal Navy,2-4,Heavy,4:40:00,
+132,BB,Nelson,Elite,7836,412,0,0,223,151,34,Heavy,23,72,66,0,14,0,0,Royal Navy,3-Feb,Heavy,4:40:00,
+133,BB,Rodney,Elite,7811,412,0,0,223,151,32,Heavy,23,72,81,0,14,0,0,Royal Navy,4-Feb,Heavy,4:40:00,
 134,BB,King George V,Super Rare,8159,428,0,0,270,158,36,Heavy,28,72,77,0,15,0,0,Royal Navy,,"Heavy, Merit ",4:50:00,"""Scherzo of Iron and Blood"" event construction/exchange. The skills, though"
 135,BB,Prince of Wales,Super Rare,8155,428,0,0,235,158,36,Heavy,28,71,19,0,15,0,0,Royal Navy,,"Requisition, Medal",,Sortie with Eagle Union ships for passive bonus
 136,BB,Duke of York,Super Rare,8155,426,0,0,230,155,36,Heavy,28,72,73,0,15,0,0,Royal Navy,,Merit Shop,,"""Winter's Crown"" event reward"
 137,BB,Vanguard,Ultra Rare,9690,422,0,0,435,178,39,Heavy,30,80,52,0,17,0,0,Royal Navy,,Limited,5:20:00,Pledge of the Radiant Court event construction
-140,CVL,Hermes,Common,4257,0,0,284,253,175,69,Medium,25,83,41,105,9,0,0,Royal Navy,2-1,Special,2:10:00,
+140,CVL,Hermes,Common,4257,0,0,284,253,175,69,Medium,25,83,41,105,9,0,0,Royal Navy,1-Feb,Special,2:10:00,
 140,CVL,Hermes (R),Rare,4467,0,0,304,303,195,69,Medium,25,83,41,105,9,0,0,Royal Navy,Retrofit,,,
-142,CVL,Unicorn,Elite,5464,0,0,311,274,183,68,Medium,24,86,78,110,11,0,0,Royal Navy,4-4,"Special, Exchange",2:30:00,"Reload passive for vanguard, heals them with each airstrike"
+142,CVL,Unicorn,Elite,5464,0,0,311,274,183,68,Medium,24,86,78,110,11,0,0,Royal Navy,4-Apr,"Special, Exchange",2:30:00,"Reload passive for vanguard, heals them with each airstrike"
 142,CVL,Unicorn (R),Super Rare,5674,0,0,356,344,188,68,Medium,24,91,78,110,11,0,0,Royal Navy,Retrofit,,,
 143,CV,Eagle,Elite,6341,218,0,375,314,114,48,Medium,24,92,40,0,12,0,0,Royal Navy,,Limited,2:00:00,"""Aurora Noctis"" event construction"
-144,CV,Ark Royal,Elite,6251,0,0,405,314,119,55,Medium,31,104,87,0,12,0,0,Royal Navy,6-3,Special,4:00:00,Torps.  All the torps.
+144,CV,Ark Royal,Elite,6251,0,0,405,314,119,55,Medium,31,104,87,0,12,0,0,Royal Navy,3-Jun,Special,4:00:00,Torps.  All the torps.
 144,CV,Ark Royal (R),Super Rare,6461,0,0,440,364,134,55,Medium,31,109,87,0,12,0,0,Royal Navy,Retrofit,,,
 145,CV,Illustrious,Super Rare,6713,0,0,405,303,119,55,Heavy,30,93,44,0,13,0,0,Royal Navy,,"Special, Exchange",4:30:00,Combine with healing carrier for indestructible vanguard
 146,CV,Victorious,Super Rare,6409,0,0,415,295,105,55,Heavy,30,92,82,0,13,0,0,Royal Navy,,Special,4:30:00,"""Winter's Crown"" event construction"
 147,CV,Formidable,Super Rare,6634,0,0,419,295,119,53,Heavy,30,92,75,0,13,0,0,Royal Navy,,Special,4:30:00,"""Empyreal Tragicomedy"" event construction"
 148,CV,Glorious,Elite,6462,0,0,365,299,110,53,Medium,30,90,32,0,12,0,0,Royal Navy,,Special,3:50:00,"""Glorious Battle"" event drop/mission reward"
-149,BM,Erebus,Elite,3731,286,0,0,175,147,63,Light,12,83,91,0,10,0,0,Royal Navy,4-3,Heavy,1:00:00,
-150,BM,Terror,Elite,3731,286,0,0,175,147,63,Light,12,83,19,0,10,0,0,Royal Navy,4-3,Heavy,1:00:00,
+149,BM,Erebus,Elite,3731,286,0,0,175,147,63,Light,12,83,91,0,10,0,0,Royal Navy,3-Apr,Heavy,1:00:00,
+150,BM,Terror,Elite,3731,286,0,0,175,147,63,Light,12,83,19,0,10,0,0,Royal Navy,3-Apr,Heavy,1:00:00,
 151,DD,Fubuki,Elite,1842,63,516,0,149,216,246,Light,45,206,34,198,9,0,0,Sakura Empire,,Light,0:23:00,"Pair with Akatsuki, Ikazuchi, Inazuma, Ayanami"
 152,DD,Shirayuki,Elite,1842,69,514,0,149,216,251,Light,45,206,41,202,9,0,0,Sakura Empire,,Limited,0:23:00,Swirling Cherry Blossoms
 155,DD,Ayanami,Elite,1842,66,516,0,149,216,251,Light,45,206,36,206,9,0,0,Sakura Empire,,Light,0:23:00,Unlocks with 15 Star collection with starter ships
 155,DD,Ayanami (R),Super Rare,2007,76,576,0,149,231,271,Light,48,206,36,206,9,0,0,Sakura Empire,Retrofit,,,
 159,DD,Akatsuki,Rare,1790,61,499,0,153,213,251,Light,45,201,45,193,8,0,0,Sakura Empire,,Core Data,,"""Mid-Autumn Festival"" and ""Visitors Dyed in Red"" event drops, Core Data Exchange"
 160,DD,Hibiki,Elite,1842,63,531,0,157,218,251,Light,45,201,88,198,9,0,0,Sakura Empire,,Limited,,"""Swirling Cherry Blossoms"" Event reward"
-161,DD,Ikazuchi,Rare,1790,61,499,0,153,213,251,Light,45,201,52,172,8,0,0,Sakura Empire,8-2,Drop Only,,
-162,DD,Inazuma,Rare,1790,61,499,0,153,213,251,Light,45,201,57,172,8,0,0,Sakura Empire,8-1,Drop Only,,
-163,DD,Shiratsuyu,Rare,1754,66,516,0,153,199,246,Light,40,205,41,168,8,0,0,Sakura Empire,3-3,Drop Only,,
+161,DD,Ikazuchi,Rare,1790,61,499,0,153,213,251,Light,45,201,52,172,8,0,0,Sakura Empire,2-Aug,Drop Only,,
+162,DD,Inazuma,Rare,1790,61,499,0,153,213,251,Light,45,201,57,172,8,0,0,Sakura Empire,1-Aug,Drop Only,,
+163,DD,Shiratsuyu,Rare,1754,66,516,0,153,199,246,Light,40,205,41,168,8,0,0,Sakura Empire,3-Mar,Drop Only,,
 164,DD,Yuudachi,Super Rare,1873,71,551,0,160,229,246,Light,40,215,32,203,10,0,0,Sakura Empire,6-4 (BN),Drop Only,,
 164,DD,Yuudachi (R),Ultra Rare,2038,111,591,0,160,229,286,Light,40,215,32,203,10,0,0,Sakura Empire,Retrofit,,,
-165,DD,Shigure,Elite,1806,66,531,0,153,215,246,Light,40,205,84,184,9,0,0,Sakura Empire,4-2,Drop Only,,
+165,DD,Shigure,Elite,1806,66,531,0,153,215,246,Light,40,205,84,184,9,0,0,Sakura Empire,2-Apr,Drop Only,,
 165,DD,Shigure (R),Super Rare,1971,86,596,0,153,215,266,Light,40,205,84,204,9,0,0,Sakura Empire,Retrofit,,,
 166,DD,Yukikaze,Super Rare,2280,69,532,0,164,226,248,Light,42,219,98,213,10,0,0,Sakura Empire,,Light,0:27:00,"""Visitors Dyed in Red"" even construction, War Archives"
-167,DD,Kagerou,Rare,1931,66,518,0,153,204,248,Light,42,207,25,192,8,0,0,Sakura Empire,3-3,Drop Only,,
+167,DD,Kagerou,Rare,1931,66,518,0,153,204,248,Light,42,207,25,192,8,0,0,Sakura Empire,3-Mar,Drop Only,,
 167,DD,Kagerou (R),Elite,2096,76,558,0,153,224,248,Light,45,207,25,212,8,0,0,Sakura Empire,Retrofit,,,
-168,DD,Shiranui,Common,1893,64,508,0,148,199,248,Light,42,207,25,176,7,0,0,Sakura Empire,4-1,Drop Only,,
+168,DD,Shiranui,Common,1893,64,508,0,148,199,248,Light,42,207,25,176,7,0,0,Sakura Empire,1-Apr,Drop Only,,
 168,DD,Shiranui (R),Rare,1953,74,568,0,148,199,268,Light,45,207,25,176,7,0,0,Sakura Empire,Retrofit,,,
 170,DD,Nowaki,Elite,2197,66,532,0,157,213,246,Light,42,215,72,194,9,0,0,Sakura Empire,,Requisition,,"""Mid-Autumn Festival"" and ""Visitors Dyed in Red"" events, War Archives"
 171,DD,Hatsuharu,Rare,1816,60,484,0,148,199,248,Light,43,203,45,192,8,0,0,Sakura Empire,,"Light, Guild",0:25:00,Monthly login reward
@@ -192,25 +195,25 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 179,CL,Yuubari,Elite,2228,133,280,0,314,185,124,Light,35,143,53,85,8,0,0,Sakura Empire,,Light,1:12:00,CL and CA experience boost passive
 179,CL,Yuubari (R),Super Rare,2393,163,290,0,339,205,124,Light,35,163,53,85,8,0,0,Sakura Empire,Retrofit,,,
 182,CL,Nagara,Common,2959,142,282,0,284,175,132,Light,36,149,36,85,8,0,0,Sakura Empire,,Light,1:05:00,
-183,CL,Isuzu,Rare,3289,121,223,0,350,178,119,Light,36,149,33,100,9,0,0,Sakura Empire,7-3,Drop Only,,"Japanese AA CL, has +1 AA gun mount."
+183,CL,Isuzu,Rare,3289,121,223,0,350,178,119,Light,36,149,33,100,9,0,0,Sakura Empire,3-Jul,Drop Only,,"Japanese AA CL, has +1 AA gun mount."
 183,CL,Isuzu (R),Elite,3529,121,233,0,400,178,119,Light,36,164,33,135,9,0,0,Sakura Empire,Retrofit,,,
 185,CL,Yura,Elite,2965,148,296,0,310,185,124,Light,36,149,40,143,10,0,0,Sakura Empire,,Limited,,
 186,CL,Kinu,Elite,2953,150,293,0,310,183,124,Light,36,149,52,125,10,0,0,Sakura Empire,,Limited,1:05:00,"""Swirling Cherry Blossoms"" Event construction/exchange"
 186,CL,Kinu (R),Super Rare,3193,160,358,0,325,188,124,Light,36,154,52,125,10,0,0,Sakura Empire,Retrofit,,,
-187,CL,Abukuma,Common,2959,142,282,0,284,175,132,Light,36,149,43,94,8,0,0,Sakura Empire,8-1,Drop Only,,
+187,CL,Abukuma,Common,2959,142,282,0,284,175,132,Light,36,149,43,94,8,0,0,Sakura Empire,1-Aug,Drop Only,,
 187,CL,Abukuma (R),Rare,3199,162,347,0,284,180,132,Light,36,149,43,94,8,0,0,Sakura Empire,Retrofit,,,
 188,CL,Mogami,Elite,4109,204,188,0,190,191,85,Medium,29,153,14,46,11,0,0,Sakura Empire,,Light,1:48:00,"""Visitors Dyed in Red"" event construction"
 188,CA,Mogami (R),Super Rare,4724,267,205,0,237,190,83,Medium,29,132,14,0,11,0,0,Sakura Empire,Retrofit,,,
 189,CL,Mikuma,Elite,4109,204,190,0,190,191,85,Medium,29,153,13,46,11,0,0,Sakura Empire,,Light,1:48:00,"""Visitors Dyed in Red"" event point reward"
-190,CA,Furutaka,Common,3518,218,193,0,164,166,78,Medium,31,114,34,0,9,0,0,Sakura Empire,3-3,Drop Only,,
+190,CA,Furutaka,Common,3518,218,193,0,164,166,78,Medium,31,114,34,0,9,0,0,Sakura Empire,3-Mar,Drop Only,,
 190,CA,Furutaka (R),Rare,3798,248,238,0,179,171,78,Medium,31,114,34,0,9,0,0,Sakura Empire,Retrofit,,,
-191,CA,Kako,Common,3518,218,193,0,164,166,78,Medium,31,114,34,0,9,0,0,Sakura Empire,3-3,Drop Only,,
+191,CA,Kako,Common,3518,218,193,0,164,166,78,Medium,31,114,34,0,9,0,0,Sakura Empire,3-Mar,Drop Only,,
 191,CA,Kako (R),Rare,3798,248,238,0,179,171,78,Medium,31,114,34,0,9,0,0,Sakura Empire,Retrofit,,,
 192,CA,Aoba,Common,3610,218,193,0,171,166,78,Medium,32,114,52,0,9,0,0,Sakura Empire,,"Heavy, Special",1:30:00,
 193,CA,Kinugasa,Common,3610,218,193,0,171,166,78,Medium,32,114,65,0,9,0,0,Sakura Empire,,"Heavy, Special",1:30:00,
 195,CA,Chikuma,Super Rare,4493,266,251,0,193,183,78,Medium,28,120,42,0,12,0,0,Sakura Empire,,Limited,2:05:00,
-196,CA,Myoukou,Rare,5339,199,152,0,198,166,80,Medium,32,128,62,0,10,0,0,Sakura Empire,5-1,Drop Only,,Tank Waifu
-197,CA,Nachi,Rare,5229,199,152,0,198,166,80,Medium,32,128,58,0,10,0,0,Sakura Empire,8-3,Drop Only,,
+196,CA,Myoukou,Rare,5339,199,152,0,198,166,80,Medium,32,128,62,0,10,0,0,Sakura Empire,1-May,Drop Only,,Tank Waifu
+197,CA,Nachi,Rare,5229,199,152,0,198,166,80,Medium,32,128,58,0,10,0,0,Sakura Empire,3-Aug,Drop Only,,
 198,CA,Ashigara,Elite,4256,237,226,0,174,171,78,Medium,28,128,60,0,11,0,0,Sakura Empire,,Heavy,1:55:00,"""Crimson Echoes"" event construction"
 200,CA,Takao,Super Rare,4394,274,248,0,182,177,82,Medium,31,137,65,0,12,0,0,Sakura Empire,,"Heavy, Exchange",2:05:00,Also appeared in Exchange
 201,CA,Atago,Super Rare,4394,274,248,0,182,177,82,Medium,31,137,48,0,12,0,0,Sakura Empire,,"Requisition, Medal",2:05:00,
@@ -220,9 +223,9 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 205,BC,Hiei,Elite,6762,372,0,0,279,162,38,Medium,30,70,37,0,14,0,0,Sakura Empire,,Heavy,4:10:00,"""The Return of the War God"" event construction"
 206,BC,Haruna,Elite,6762,365,0,0,279,161,38,Medium,30,70,47,0,14,0,0,Sakura Empire,,Core Data,,"""Ink-stained Steel Sakura"" event point reward"
 207,BC,Kirishima,Elite,6762,372,0,0,279,162,38,Medium,30,70,37,0,14,0,0,Sakura Empire,,Heavy,4:10:00,
-208,BB,Fusou,Rare,7081,395,0,0,227,140,32,Heavy,23,68,13,0,13,0,0,Sakura Empire,6-2,Drop Only,,
+208,BB,Fusou,Rare,7081,395,0,0,227,140,32,Heavy,23,68,13,0,13,0,0,Sakura Empire,2-Jun,Drop Only,,
 208,BBV,Fusou (R),Elite,7431,394,0,205,309,136,32,Heavy,23,80,13,0,13,0,0,Sakura Empire,Retrofit,,,
-209,BB,Yamashiro,Rare,7482,395,0,0,227,140,32,Heavy,23,68,14,0,13,0,0,Sakura Empire,6-2,Drop Only,,
+209,BB,Yamashiro,Rare,7482,395,0,0,227,140,32,Heavy,23,68,14,0,13,0,0,Sakura Empire,2-Jun,Drop Only,,
 209,BBV,Yamashiro (R),Elite,7832,394,0,205,309,136,32,Heavy,23,80,14,0,13,0,0,Sakura Empire,Retrofit,,,
 210,BB,Ise,Rare,7294,403,0,0,234,143,32,Heavy,23,72,60,0,13,0,0,Sakura Empire,,"Heavy, Requisition",4:25:00,"""Mid-Autumn Festival"" and ""Visitors Dyed in Red"" events, War Archives"
 210,BBV,Ise (R),Elite,7413,394,0,278,380,134,32,Heavy,23,89,60,0,13,0,0,Sakura Empire,Retrofit,,,
@@ -232,36 +235,37 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 213,BB,Mutsu,Elite,8084,415,0,0,189,147,36,Heavy,25,73,34,0,14,0,0,Sakura Empire,,Core Data,,"""Ink-stained Steel Sakura"" event point reward"
 214,BB,Kii,Super Rare,8134,426,287,0,375,147,38,Heavy,28,73,39,0,15,0,0,Sakura Empire,,Limited,4:20:00,
 215,BB,Tosa,Super Rare,8248,429,220,0,204,147,38,Heavy,26,73,12,0,15,0,0,Sakura Empire,,Heavy,4:30:00,"""Crimson Echoes"" event construction"
-218,CVL,Hiyou,Rare,5328,0,0,283,252,160,70,Medium,25,80,43,82,11,0,0,Sakura Empire,12-2,Drop Only,,
-219,CVL,Junyou,Rare,5328,0,0,283,252,160,70,Medium,25,80,80,80,11,0,0,Sakura Empire,12-3,Drop Only,,
-220,CVL,Houshou,Elite,3708,0,0,290,263,178,69,Medium,25,83,79,94,11,0,0,Sakura Empire,7-4,Drop Only,,CV XP boost passive
-222,CVL,Shouhou,Rare,4385,0,0,283,253,180,72,Medium,28,80,24,85,10,0,0,Sakura Empire,2-2,Guild Shop,,Heal vanguard on airstrikes
+218,CVL,Hiyou,Rare,5328,0,0,283,252,160,70,Medium,25,80,43,82,11,0,0,Sakura Empire,2-Dec,Drop Only,,
+219,CVL,Junyou,Rare,5328,0,0,283,252,160,70,Medium,25,80,80,80,11,0,0,Sakura Empire,3-Dec,Drop Only,,
+220,CVL,Houshou,Elite,3708,0,0,290,263,178,69,Medium,25,83,79,94,11,0,0,Sakura Empire,4-Jul,Drop Only,,CV XP boost passive
+222,CVL,Shouhou,Rare,4385,0,0,283,253,180,72,Medium,28,80,24,85,10,0,0,Sakura Empire,2-Feb,Guild Shop,,Heal vanguard on airstrikes
 222,CVL,Shouhou (R),Elite,4625,0,0,343,288,185,72,Medium,28,80,24,85,10,0,0,Sakura Empire,Retrofit,,,
 223,CVL,Ryuujou,Elite,4381,0,0,352,257,181,85,Medium,28,92,42,73,11,0,0,Sakura Empire,,Limited,2:22:00,"""Smoke-smothered South Seas"" event construction"
 224,CV,Akagi,Super Rare,6741,0,0,415,339,132,56,Medium,31,92,42,0,13,0,0,Sakura Empire,3-4 (BN),Drop Only,,Pair with Kaga
 225,CV,Kaga,Super Rare,6928,0,0,413,339,132,50,Medium,28,92,42,0,13,0,0,Sakura Empire,3-4 (BN),Drop Only,,Pair with Akagi
-226,CV,Souryuu,Elite,5370,0,0,395,319,123,58,Medium,34,87,36,0,12,0,0,Sakura Empire,3-1,Drop Only,,Pair with Hiryuu
+226,CV,Souryuu,Elite,5370,0,0,395,319,123,58,Medium,34,87,36,0,12,0,0,Sakura Empire,1-Mar,Drop Only,,Pair with Hiryuu
 226,CV,Souryuu (R),Super Rare,5580,0,0,430,369,143,68,Medium,34,87,36,0,12,0,0,Sakura Empire,Retrofit,,,Pair with Hiryuu
-227,CV,Hiryuu,Elite,5598,0,0,396,317,123,58,Medium,34,87,36,0,12,0,0,Sakura Empire,3-1,Drop Only,,Pair with Souryuu
+227,CV,Hiryuu,Elite,5598,0,0,396,317,123,58,Medium,34,87,36,0,12,0,0,Sakura Empire,1-Mar,Drop Only,,Pair with Souryuu
 227,CV,Hiryuu (R),Super Rare,5808,0,0,431,367,143,68,Medium,34,87,36,0,12,0,0,Sakura Empire,Retrofit,,,Pair with Souryuu
 228,CV,Shoukaku,Super Rare,6885,0,0,417,357,121,58,Medium,34,90,49,0,13,0,0,Sakura Empire,,Special,4:30:00,"""Mid-Autumn Festival"" and ""Visitors Dyed in Red"" events, War Archives"
 229,CV,Zuikaku,Super Rare,7360,0,0,420,330,121,59,Medium,34,90,73,0,13,0,0,Sakura Empire,,Special,4:30:00,"""Mid-Autumn Festival"" and ""Visitors Dyed in Red"" events, War Archives"
 230,CV,Taihou,Super Rare,7481,0,0,405,326,121,56,Heavy,33,84,36,0,13,0,0,Sakura Empire,,Special,4:45:00,"""1 Year Anniversary"" event construction"
 231,CV,Shinano,Ultra Rare,8818,0,0,443,324,128,50,Heavy,28,80,32,0,15,0,0,Sakura Empire,,Limited,5:15:00,"""Dreamwalker's Butterfly"" Event construction"
 232,AR,Akashi,Super Rare,4223,44,0,0,164,183,47,Light,19,110,53,0,11,0,0,Sakura Empire,,"Light, Special",1:35:00,"The gold digger waifu, a PITA to get, Absolutely worth it"
-233,DD,Z1,Elite,2102,66,455,0,157,210,192,Light,41,194,40,200,9,0,0,Iron Blood,5-1,Requisition,,Pair with other Z-class (Ironblood DDs)
+233,DD,Z1,Elite,2102,66,455,0,157,210,192,Light,41,194,40,200,9,0,0,Iron Blood,1-May,Requisition,,Pair with other Z-class (Ironblood DDs)
 233,DD,Z1 (R),Super Rare,2267,86,495,0,232,210,197,Light,41,194,40,210,9,0,0,Iron Blood,Retrofit,,,
-236,DD,Z23,Elite,2177,122,331,0,153,202,203,Light,42,197,65,204,9,0,0,Iron Blood,2-1,Light,0:33:00,"Can equip CL guns, don't recommend though.  Same with Z25"
+236,DD,Z23,Elite,2177,122,331,0,153,202,203,Light,42,197,65,204,9,0,0,Iron Blood,1-Feb,Light,0:33:00,"Can equip CL guns, don't recommend though.  Same with Z25"
 236,DD,Z23 (R),Super Rare,2342,172,351,0,218,202,208,Light,42,197,65,224,9,0,0,Iron Blood,Retrofit,,,
 237,DD,Z25,Elite,2167,122,331,0,157,193,201,Light,43,190,72,204,9,0,0,Iron Blood,,Requisition,,"""Opposite-colored"" event construction"
-238,CL,Konigsberg,Common,3450,155,276,0,341,177,126,Light,32,157,42,105,8,0,0,Iron Blood,3-2,All,1:10:00,
-239,CL,Karlsruhe,Common,3450,155,276,0,341,177,126,Light,32,157,39,89,8,0,0,Iron Blood,3-2,All,1:10:00,
+238,CL,Konigsberg,Common,3450,155,276,0,341,177,126,Light,32,157,42,105,8,0,0,Iron Blood,2-Mar,All,1:10:00,
+239,CL,Karlsruhe,Common,3450,155,276,0,341,177,126,Light,32,157,39,89,8,0,0,Iron Blood,2-Mar,All,1:10:00,
 239,CL,Karlsruhe (R),Rare,3690,175,321,0,356,182,126,Light,32,157,39,89,8,0,0,Iron Blood,Retrofit,,,
-240,CL,Koln,Common,3450,155,276,0,341,177,126,Light,32,157,62,107,8,0,0,Iron Blood,3-2,All,1:10:00,
+240,CL,Koln,Common,3450,155,276,0,341,177,126,Light,32,157,62,107,8,0,0,Iron Blood,2-Mar,All,1:10:00,
 240,CL,Koln (R),Rare,3690,175,321,0,356,182,126,Light,32,157,62,107,8,0,0,Iron Blood,Retrofit,,,
 241,CL,Leipzig,Rare,3576,150,274,0,354,188,121,Light,32,163,67,100,9,0,0,Iron Blood,,All,1:20:00,Unlocks with 9 Star collection with Konigsberg-class ships
 241,CL,Leipzig (R),Elite,3816,170,329,0,394,193,121,Light,32,163,67,100,9,0,0,Iron Blood,Retrofit,,,
 242,CA,Admiral Hipper,Elite,5083,254,193,0,193,178,64,Medium,25,131,66,0,11,0,0,Iron Blood,,"Heavy, Requisition",2:00:00,"""Divergent Chessboard"" event drop/construction, Ironblood Indy"
+243,CA,Blücher,Super Rare,4717,293,244,0,213,185,63,Medium,25,131,17,0,12,0,0,Iron Blood,,Limited,2:00:00,"""Operation Convergence"""
 244,CA,Prinz Eugen,Super Rare,6394,230,155,0,209,185,64,Medium,25,131,78,0,12,0,0,Iron Blood,,"Heavy, Exchange",2:00:00,"Exchange, vanguard ship with most health"
 245,CA,Deutchland,Elite,4111,305,223,0,157,178,55,Medium,22,135,72,0,11,0,0,Iron Blood,,Heavy,1:55:00,"""Opposite-colored"" event drop"
 246,CA,Adm. Graf Spee,Elite,4462,301,219,0,157,177,56,Medium,22,129,36,0,11,0,0,Iron Blood,,Guild Shop,,"""Encircling Graf Spee"" event reward/construction"
@@ -279,6 +283,7 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 255,DDG,Chang Chun (R) (Main),Super Rare,??,172,311,0,175,202,??,Light,45,??,61,203,9,0,0,Dragon Empery,Retrofit,,,
 256,DD,Tai Yuan,Elite,2332,130,232,0,177,202,213,Light,45,210,71,203,9,0,0,Dragon Empery,,Light,0:32:00,"""Lunar New Year 2019"" event construction"
 257,CL,Yat Sen,Elite,1928,122,0,0,354,185,93,Light,19,150,64,56,10,0,0,Dragon Empery,,Light,0:40:00,"""Lunar New Year 2019"" event construction, pair with Ning/Ping Hai"
+257,CL,Yat Sen (R),Super Rare,2168,177,0,0,389,190,108,Light,19,150,64,56,10,0,0,Dragon Empery,Retrofit,,,
 258,CL,Ning Hai,Elite,2028,148,237,0,295,185,88,Light,23,156,51,77,10,0,0,Dragon Empery,,Guild Shop,0:42:00,"Sortie with Ping Hai, Yat Sen"
 258,CL,Ning Hai (R),Super Rare,2238,203,237,0,310,190,123,Light,23,156,51,77,10,0,0,Dragon Empery,Retrofit,,,
 259,CL,Ping Hai,Elite,1995,148,237,0,263,185,85,Light,21,159,47,77,10,0,0,Dragon Empery,,Guild Shop,0:42:00,"Sortie with Ning Hai, Yat Sen"
@@ -300,10 +305,10 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 272,DD,Kisaragi,Common,1523,60,433,0,141,199,250,Light,44,200,15,182,7,0,0,Sakura Empire,,Light,0:21:00,
 272,DD,Kisaragi (R),Rare,1688,60,468,0,176,219,250,Light,47,200,15,182,7,0,0,Sakura Empire,Retrofit,,,
 274,DD,Uzuki,Common,1523,60,433,0,141,199,250,Light,44,200,37,184,7,0,0,Sakura Empire,,Light,0:21:00,
-276,DD,Minazuki,Common,1523,60,433,0,141,199,250,Light,44,200,45,171,7,0,0,Sakura Empire,10-1,Drop Only,,
+276,DD,Minazuki,Common,1523,60,433,0,141,199,250,Light,44,200,45,171,7,0,0,Sakura Empire,1-Oct,Drop Only,,
 277,DD,Fumizuki,Rare,1553,61,444,0,131,204,250,Light,44,200,27,187,8,0,0,Sakura Empire,,Light,0:21:00,"""Ink-stained Steel Sakura"" event construction"
 278,DD,Nagatsuki,Rare,1553,61,444,0,131,204,250,Light,44,200,35,190,8,0,0,Sakura Empire,,Guild Shop,,
-280,DD,Mikazuki,Common,1523,69,433,0,141,199,250,Light,44,200,40,185,7,0,0,Sakura Empire,10-1,Drop Only,,
+280,DD,Mikazuki,Common,1523,69,433,0,141,199,250,Light,44,200,40,185,7,0,0,Sakura Empire,1-Oct,Drop Only,,
 286,DD,Umikaze,Elite,1722,64,500,0,142,202,246,Light,40,215,50,187,9,0,0,Sakura Empire,,Limited,0:25:00,"""Upon the Shimmering Blue"" Event construction"
 287,DD,Yamakaze,Elite,1722,66,494,0,142,202,246,Light,40,215,35,190,9,0,0,Sakura Empire,,Limited,,"""Upon the Shimmering Blue"" Event reward"
 288,DD,Kawakaze,Super Rare,1875,70,551,0,164,220,246,Light,40,215,38,203,10,0,0,Sakura Empire,,Light,0:25:00,"""Ink-stained Steel Sakura"" event drop/construction"
@@ -311,18 +316,18 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 295,DD,Niizuki,Elite,2504,77,375,0,198,213,232,Light,39,207,32,203,9,0,0,Sakura Empire,9-4 (BN),Drop Only,,
 296,DD,Harutsuki,Elite,2504,75,368,0,198,213,232,Light,39,212,61,210,9,0,0,Sakura Empire,,Light,0:29:00,"""Ink-stained Steel Sakura"" event construction"
 297,DD,Yoizuki,Elite,2504,75,368,0,204,213,232,Light,39,212,61,203,9,0,0,Sakura Empire,,Light,0:29:00,"""Ink-stained Steel Sakura"" event construction"
-299,DD,Radford,Rare,2104,87,287,0,176,204,210,Light,45,222,80,209,8,0,0,Eagle Union,9-2,Drop Only,,
-300,DD,Jenkins,Rare,2130,87,287,0,176,204,209,Light,43,222,81,209,8,0,0,Eagle Union,9-2,Drop Only,,
+299,DD,Radford,Rare,2104,87,287,0,176,204,210,Light,45,222,80,209,8,0,0,Eagle Union,2-Sep,Drop Only,,
+300,DD,Jenkins,Rare,2130,87,287,0,176,204,209,Light,43,222,81,209,8,0,0,Eagle Union,2-Sep,Drop Only,,
 301,DD,Nicholas,Elite,2167,88,295,0,182,210,206,Light,42,222,80,215,9,0,0,Eagle Union,9-3 (BN),Drop Only,,
 301,DD,Nicholas (R),Super Rare,2332,133,360,0,237,210,206,Light,42,222,80,225,9,0,0,Eagle Union,Retrofit,,,
-303,CL,Richmond,Common,3312,144,210,0,287,185,127,Light,35,156,69,94,8,0,0,Eagle Union,8-4,Drop Only,,
-304,CL,Honolulu,Rare,3550,166,0,0,313,183,106,Light,32,162,50,100,9,0,0,Eagle Union,10-2,Drop Only,,
-305,CL,St. Louis,Elite,3688,174,0,0,323,188,106,Light,32,170,65,102,10,0,0,Eagle Union,10-3,Light,1:15:00,
+303,CL,Richmond,Common,3312,144,210,0,287,185,127,Light,35,156,69,94,8,0,0,Eagle Union,4-Aug,Drop Only,,
+304,CL,Honolulu,Rare,3550,166,0,0,313,183,106,Light,32,162,50,100,9,0,0,Eagle Union,2-Oct,Drop Only,,
+305,CL,St. Louis,Elite,3688,174,0,0,323,188,106,Light,32,170,65,102,10,0,0,Eagle Union,3-Oct,Light,1:15:00,
 306,DD,Jupiter,Rare,1573,77,369,0,159,204,270,Light,43,218,52,213,8,0,0,Royal Navy,,"Light, Guild",0:27:00,
 307,DD,Jersey,Rare,1573,77,369,0,159,294,270,Light,43,218,20,213,8,0,0,Royal Navy,,"Light, Guild",0:27:00,October 2019 Monthly login
-308,CL,Sendai,Rare,2599,152,330,0,282,188,128,Light,35,156,42,109,9,0,0,Sakura Empire,11-3,Drop Only,,
+308,CL,Sendai,Rare,2599,152,330,0,282,188,128,Light,35,156,42,109,9,0,0,Sakura Empire,3-Nov,Drop Only,,
 308,CL,Sendai (R),Elite,2839,172,395,0,282,193,128,Light,35,156,42,109,9,0,0,Sakura Empire,Retrofit,,,
-309,CL,Jintsuu,Elite,2676,158,341,0,291,194,128,Light,35,156,38,101,10,0,0,Sakura Empire,10-4,Drop Only,,"Great Torp CL, it seems"
+309,CL,Jintsuu,Elite,2676,158,341,0,291,194,128,Light,35,156,38,101,10,0,0,Sakura Empire,4-Oct,Drop Only,,"Great Torp CL, it seems"
 309,CL,Jintsuu (R),Super Rare,2916,178,406,0,306,199,128,Light,35,156,38,101,10,0,0,Sakura Empire,Retrofit,,,Impressive Skills
 310,CL,Naka,Rare,2599,153,341,0,292,188,128,Light,35,156,53,105,9,0,0,Sakura Empire,,Light,1:20:00,"""Crimson Echoes"" event construction"
 316,DD,Urakaze,Rare,2133,64,508,0,152,204,246,Light,42,206,27,168,8,0,0,Sakura Empire,,"Light, Guild",0:27:00,
@@ -332,7 +337,7 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 319,DD,Tanikaze,Rare,2133,66,518,0,157,199,246,Light,42,207,52,168,8,0,0,Sakura Empire,,Light,0:27:00,
 319,DD,Tanikaze (R),Elite,2193,76,578,0,157,199,266,Light,45,207,52,168,8,0,0,Sakura Empire,Retrofit,,,
 320,BB,Mikasa,Super Rare,5501,339,0,0,176,166,26,Heavy,18,74,95,0,14,0,0,Sakura Empire,,"Requisition, Medal",3:30:00,"""The Return of the War God"" event construction"
-321,CL,Agano,Elite,3233,150,358,0,330,171,123,Light,35,152,21,80,10,0,0,Sakura Empire,11-2,Drop Only,,
+321,CL,Agano,Elite,3233,150,358,0,330,171,123,Light,35,152,21,80,10,0,0,Sakura Empire,2-Nov,Drop Only,,
 322,CL,Noshiro,Super Rare,3354,177,378,0,341,183,123,Light,35,176,55,99,11,0,0,Sakura Empire,,Limited,1:20:00,"""Swirling Cherry Blossoms"" Event construction/exchange/drop"
 325,DD,Matchless,Elite,1724,77,399,0,160,204,270,Light,43,203,76,226,9,0,0,Royal Navy,,Light,0:29:00,"""Winter's Crown"" event construction"
 326,DD,Musketeer,Elite,1724,77,405,0,160,204,270,Light,43,200,67,226,9,0,0,Royal Navy,,Core Data,,"""Winter's Crown"" event mission reward/drop"
@@ -573,6 +578,28 @@ ID,Type,Ship,Rarity,HP,FP,TRP,AVI,AA,RLD,EVA,Armor,SPD,ACC,LCK,ASW,OIL,OXY,AMO,F
 555,CV,Joffre,Super Rare,6458,0,0,419,314,129,52,Medium,33,99,28,0,13,0,0,Vichya Dominion,,Limited,4:35:00,"""Angel of the Iris"""
 556,DD,L'Indomptable,Super Rare,2229,143,274,0,164,210,285,Light,54,212,23,202,10,0,0,Vichya Dominion,,Limited,0:33:00,"""Angel of the Iris"""
 557,CL,Enterprise,Elite,3620,153,290,0,349,188,120,Light,33,175,83,143,10,0,0,Royal Navy,,Limited,1:07:00,"""Angel of the Iris"""
+558,SS,Leonardo da Vinci,Super Rare,1748,48,545,0,0,101,38,Light,18,197,57,0,7,232,2,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
+558,CL,Giuseppe Garibaldi,Super Rare,4399,181,324,0,375,183,113,Light,35,182,88,99,11,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
+560,CA,Bolzano,Elite,4515,235,161,0,230,172,72,Light,28,121,46,0,11,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
+561,BB,Roma,Super Rare,8946,431,0,0,246,158,37,Heavy,30,60,40,0,15,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
+562,DD,Alfredo Oriani,Elite,1890,115,297,0,160,215,275,Light,45,225,55,218,3,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
+563,DD,Emanuele Pessagno,Elite,1895,121,286,0,171,207,269,Light,39,212,46,209,9,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
+564,DD,Z16,Elite,2110,69,461,0,153,215,192,Light,43,212,51,195,9,0,0,Iron Blood,,Limited,0:28:00,"""Operation Convergence"""
+566,BC,Brünhilde,Super Rare,7597,379,244,0,316,166,43,Heavy,33,63,50,0,14,0,0,Iron Blood,,Limited,5:05:00,"""Operation Convergence"""
+567,DD,Wakatsuki,Super Rare,2600,87,395,0,201,221,232,Light,39,206,43,215,10,0,0,Sakura Empire,,Limited,0:29:00,"""Violet Tempest, Blooming Lycoris"""
+568,CA,Little Spee,Elite,4402,303,223,0,157,177,56,Medium,22,129,36,0,11,0,0,Iron Blood,,Limited,,"""The Pursuit of Little Spee"""
+569,DD,Janus,Super Rare,2114,122,472,0,190,237,271,Light,43,228,53,262,10,0,0,Royal Navy,,Limited,0:27:00,"""Fight on, Royal Maids! (3)"""
+570,CVL,Albion,Super Rare,6784,0,0,430,276,166,72,Medium,28,101,78,130,13,0,0,Royal Navy,,Limited,3:00:00,"""Fight on, Royal Maids! (3)"""
+571,SF,Royal Fortune,Super Rare,2317,201,0,0,0,183,102,Light,18,169,51,0,7,0,2,Tempesta,,Limited,,"""Halloween Hijinks"""
+572,CV,Hornet II,Super Rare,6792,0,0,438,341,132,56,Medium,33,93,76,0,13,0,0,Eagle Union,,Limited,4:25:00,"""Parallel Superimposition"""
+573,CVL,Langley II,Elite,4904,0,0,346,278,194,86,Medium,31,91,70,100,11,0,0,Eagle Union,,Limited,,"""Parallel Superimposition"""
+574,CV,Yorktown II,Ultra Rare,7662,0,0,458,371,137,56,Medium,33,97,70,0,15,0,0,Eagle Union,,Limited,4:25:00,"""Parallel Superimposition"""
+575,CA,Northampton II,Super Rare,4762,259,0,0,299,190,59,Medium,26,139,80,0,12,0,0,Eagle Union,,Limited,2:00:00,"""Parallel Superimposition"""
+576,DD,Hammann II,Elite,1694,82,375,0,255,226,271,Light,25,218,55,232,9,0,0,Eagle Union,,Limited,0:15:00,"""Parallel Superimposition"""
+577,CL,Kuybyshev,Super Rare,4392,178,0,0,338,199,110,Light,33,170,73,149,11,0,0,Northern Parliament,,Limited,1:26:00,"""Lunar New Year 2023"""
+578,CVL,Theseus,Super Rare,5096,0,0,428,270,167,69,Medium,25,101,71,127,13,0,0,Royal Navy,,Limited,2:30:00,"""Lunar New Year 2023"""
+579,CVL,Hwah Jah,Elite,4965,0,0,335,148,177,53,Medium,12,89,53,0,11,0,0,Dragon Empery,,Limited,2:10:00,"""Lunar New Year 2023"""
+580,AE,Ting An,Elite,2219,0,0,159,137,152,106,Light,9,143,49,0,10,0,0,Dragon Empery,,Limited,,"""Spring Blossoms in the Sky"""
 A01,CV,Hiryuu META,Super Rare,5794,0,0,429,316,140,60,Medium,34,91,36,0,14,0,0,Ashes,Operation Siren,,,
 A02,CV,Ark Royal META,Super Rare,6459,0,0,425,325,116,53,Medium,31,105,87,0,14,0,0,Ashes,Operation Siren,,,
 A03,CL,Helena META,Super Rare,4246,177,0,0,419,198,97,Light,33,187,33,158,12,0,0,Ashes,Operation Siren,,,
@@ -585,6 +612,12 @@ A09,BC,Scharnhorst META,Super Rare,7607,372,177,0,291,166,35,Medium,31,65,43,0,1
 A10,BB,Yamashiro META,Elite,7809,414,0,0,238,148,33,Heavy,23,67,14,0,15,0,0,Ashes,Cruise Missions,,,
 A11,CL,Memphis META,Elite,3434,152,219,0,307,193,100,Light,35,154,67,90,11,0,0,Ashes,Cruise Missions,,,
 A12,BC,Repulse META,Super Rare,7005,381,0,0,313,144,37,Medium,32,62,28,0,15,0,0,Ashes,Operation Siren,,,
+A13,CA,Trento META,Elite,3721,242,177,0,195,167,74,Light,29,121,42,0,12,0,0,Ashes,Cruise Missions,,,
+A14,BC,Renown META,Super Rare,7065,385,0,0,325,158,38,Medium,33,69,85,0,15,0,0,Ashes,Operation Siren,,,
+A15,DD,Hunter META,Elite,1863,89,381,0,173,212,287,Light,43,213,24,252,10,0,0,Ashes,Cruise Missions,,,
+A16,DD,Fortune META,Elite,1777,117,389,0,164,212,279,Light,43,216,68,207,10,0,0,Ashes,Cruise Missions,,,
+A17,BB,Arizona META,Super Rare,7337,434,0,0,264,151,23,Heavy,21,64,28,0,16,0,0,Ashes,Operation Siren,,,
+A18,CL,Sheffield META,Elite,3851,163,304,0,353,193,108,Light,32,169,78,99,11,0,0,Ashes,Cruise Missions,,,
 C001,CL,Neptune (Neptunia),Elite,3509,154,293,0,308,174,118,Light,31,162,73,123,10,0,0,Neptunia,,Limited,,"""Visitors from Another Dimension"" event reward"
 C002,CA,Noire,Elite,3916,240,202,0,181,167,68,Medium,27,131,83,0,11,0,0,Neptunia,,Limited,2:38:00,"""Visitors from Another Dimension"" event construction"
 C003,DD,Blanc,Elite,1844,70,444,0,151,209,225,Light,45,212,71,202,9,0,0,Neptunia,,Limited,2:24:00,"""Visitors from Another Dimension"" event construction"
@@ -652,13 +685,3 @@ P024,BC,Prinz Rupprecht,Priority,8674,379,305,0,326,151,40,Heavy,32,66,0,0,16,0,
 P025,CL,Harbin,Priority,3665,153,371,0,415,196,188,Light,33,171,0,149,12,0,0,Dragon Empery,Research,,,
 P026,CV,Chkalov,Priority,6426,0,0,445,328,121,49,Medium,32,107,0,0,14,0,0,Northern Parliament,Research,,,
 P027,CB,Brest,Decisive,7525,305,0,0,259,193,52,Medium,24,132,0,0,16,0,0,Iris Libre,Research,,,
-558,SS,Leonardo da Vinci,Super Rare,1748,48,545,0,0,101,38,Light,18,197,57,0,7,,,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
-558,CL,Giuseppe Garibaldi,Super Rare,4399,181,324,0,375,183,113,Light,35,182,88,99,11,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
-560,CA,Bolzano,Elite,4515,235,161,0,230,172,72,Light,28,121,46,0,11,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
-561,BB,Roma,Super Rare,8946,431,0,0,246,158,37,Heavy,30,60,40,0,15,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
-562,DD,Alfredo Oriani,Elite,1890,115,297,0,160,215,275,Light,45,225,55,218,3,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
-563,DD,Emanuele Pessagno,Elite,1895,121,286,0,171,207,269,Light,39,212,46,209,9,0,0,Sardegna Empire,,Limited,,"""Aquilifer's Ballade"""
-A13,CA,Trento META,Elite,3721,242,177,0,195,167,74,Light,29,121,42,0,12,0,0,Ashes,Cruise Missions,,,
-243,CA,Blücher,Super Rare,4717,293,244,0,213,185,63,Medium,25,131,17,0,12,0,0,Iron Blood,,Limited,2:00:00,"""Operation Convergence"""
-564,DD,Z16,Elite,2110,69,461,0,153,215,192,Light,43,212,51,195,9,0,0,Iron Blood,,Limited,0:28:00,"""Operation Convergence"""
-566,BC,Brünhilde,Super Rare,7597,379,244,0,316,166,43,Heavy,33,63,50,0,14,0,0,Iron Blood,,Limited,5:05:00,"""Operation Convergence"""
