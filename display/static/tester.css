@@ -10,7 +10,7 @@ table, th, td {
 
 .banner {
     text-align: center;
-    background-image: url("https://initiate.alphacoders.com/images/112/cropped-851-315-1125128.png?4115");
+    background-image: src("banner.png");
     background-size: 100%;
     padding: 40px;
 }

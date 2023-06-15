@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ib7!(+xlss3jn=noofkg2!c9h3g-xc@xw4rjfru_%y8(4+qi!o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vestallin.pythonanywhere.com']
+ALLOWED_HOSTS = ['vestallin.pythonanywhere.com', '*']
 
 
 # Application definition
