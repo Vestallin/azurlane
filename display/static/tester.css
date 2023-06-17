@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: darkgrey;
+    background-color: lightgrey;
 }
 
 table, th, td {
@@ -8,10 +8,19 @@ table, th, td {
     text-align: center;
 }
 
+.box {
+  text-align: center;
+  background-color: lightcyan;
+  padding: 20px;
+  border-color: black;
+  border: 3px black dotted;
+}
 .banner {
     text-align: center;
     background-image: url("banner.png");
-    background-size: 100% auto;
+    background-size: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
     padding: 40px;
 }
 .banner-text{
@@ -25,12 +34,13 @@ table, th, td {
 table {
     margin-left: auto;
     margin-right: auto;
-    width: 95%;
     background-color: white;
+    table-layout: fixed;
 }
+
 th {
     background-color: #749cf2;
-    padding: 10px;
+    padding: 20px;
 }
 
 ul {

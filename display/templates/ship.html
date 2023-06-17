@@ -38,16 +38,21 @@
     </div>
   </div>
   <br>
+  <div class="box">
+    <h3>Use SHIFT + Left Click to do a multi-column sort</h3>
+  </div>
+  <br>
     <button class="button"> Reset Sort </button>
     <br>
+  <div style="overflow-x:auto;">
     <table id="table" class="tablesorter">
       <thead>
     <tr>
-       <th>Ship Name <br></th>
-       <th>Ship Class</th>
-       <th>Ship ID</th>
-       <th>Rarity<br></th>
-       <th>Faction<br></th>
+       <th>ID</th>
+       <th>Ship Name</th>
+       <th>Type</th>
+       <th>Rarity</th>
+       <th>Faction</th>
        <th>Armor</th>
        <th>HP</th>
        <th>FP</th>
@@ -68,9 +73,9 @@
   <tbody>
     {% for val in table %}
     <tr>
+        <td>{{val.sid}}</td>
         <td>{{val.ship_name}}</td>
         <td>{{val.class_name}}</td>
-        <td>{{val.sid}}</td>
         <td class="{{val.rarity|color_filter}}">{{val.rarity}}</td>
         <td>{{val.faction}}</td>
         <td>{{val.armor}}</td>
@@ -91,6 +96,8 @@
     </tr>
     {% endfor %}
   </tbody>
+  </div>
+    
 </table>
 </body>
 </html>
