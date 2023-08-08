@@ -1,21 +1,25 @@
 {# display/templates/ship.html #}
 {% load static %}
 {% load color_filter %}
-<!doctype html>
-<html>
-<head>
-    {% load bootstrap5 %}
-    {% bootstrap_css %}
-    {% bootstrap_javascript %}
-
-    <link rel="stylesheet" href="{% static '/tablesorter-master/dist/css/theme.default.css' %}">
-    <!-- load jQuery and tablesorter scripts -->
-    <script type="text/javascript" src="{% static 'jquery-3.7.0.js'%}"></script>
-    <script type="text/javascript" src="{% static '/tablesorter-master/dist/js/jquery.tablesorter.js' %}"></script>
-    <!-- tablesorter widgets (optional) -->
-    <script type="text/javascript" src="{% static '/tablesorter-master/dist/js/jquery.tablesorter.widgets.js' %}"></script>
-
-    <script>
+{% load link_filter %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta name="keywords" content="AL"/>
+      <meta name="description" content="Simple AL Database"/>
+        {% load bootstrap5 %}
+        {% bootstrap_css %}
+        {% bootstrap_javascript %}
+        <link rel="stylesheet"
+              href="{% static '/tablesorter-master/dist/css/theme.default.css' %}">
+        <!-- load jQuery and tablesorter scripts -->
+        <script type="text/javascript" src="{% static 'jquery-3.7.0.js'%}"></script>
+        <script type="text/javascript"
+                src="{% static '/tablesorter-master/dist/js/jquery.tablesorter.js' %}"></script>
+        <!-- tablesorter widgets (optional) -->
+        <script type="text/javascript"
+                src="{% static '/tablesorter-master/dist/js/jquery.tablesorter.widgets.js' %}"></script>
+        <script>
       $(function() {
         $('table').tablesorter();
         
@@ -25,79 +29,84 @@
         });
       });
 
-    </script>
-
-<title>List of Ships</title>
-<link rel="stylesheet" href="{%static 'tester.css' %}" />
-</head>
-<body>
-  <div class="banner">
-    <div class="banner-text">
-    <h1> Azur Lane Database </h1>
-    <h3> by <a href="https://github.com/Vestallin" class='hlink'> Vestallin </a></h3>
-    </div>
-  </div>
-  <br>
-  <div class="box">
-    <h3>Use SHIFT + Left Click to do a multi-column sort</h3>
-  </div>
-  <br>
-    <button class="button"> Reset Sort </button>
-    <br>
-  <div style="overflow-x:auto;">
-    <table id="table" class="tablesorter">
-      <thead>
-    <tr>
-       <th class="sorter-text">ID</th>
-       <th>Ship Name</th>
-       <th>Type</th>
-       <th>Rarity</th>
-       <th>Faction</th>
-       <th>Armor</th>
-       <th>HP</th>
-       <th>FP</th>
-       <th>TRP</th>
-       <th>AVI</th>
-       <th>AA</th>
-       <th>RLD</th>
-       <th>EVA</th>
-       <th>SPD</th>
-       <th>ACC</th>
-       <th>LCK</th>
-       <th>ASW</th>
-       <th>OIL</th>
-       <th>OXY</th>
-       <th>Ammo</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for val in table %}
-    <tr>
-        <td>{{val.sid}}</td>
-        <td>{{val.ship_name}}</td>
-        <td>{{val.class_name}}</td>
-        <td class="{{val.rarity|color_filter}}">{{val.rarity}}</td>
-        <td>{{val.faction}}</td>
-        <td>{{val.armor}}</td>
-        <td>{{val.hp}}</td>
-        <td>{{val.fp}}</td>
-        <td>{{val.trp}}</td>
-        <td>{{val.avi}}</td>
-        <td>{{val.aa}}</td>
-        <td>{{val.rld}}</td>
-        <td>{{val.eva}}</td>
-        <td>{{val.spd}}</td>
-        <td>{{val.acc}}</td>
-        <td>{{val.lck}}</td>
-        <td>{{val.asw}}</td>
-        <td>{{val.oil}}</td>
-        <td>{{val.oxy}}</td>
-        <td>{{val.ammo}}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-  </div>
-    
-</table>
-</body>
+        </script>
+        <title>List of Ships</title>
+        <link rel="stylesheet" href="{% static 'tester.css' %}" />
+    </head>
+    <body>
+        <div class="banner">
+            <div class="banner-text">
+                <h1>Azur Lane Database</h1>
+                <h3>
+                    by <a href="https://github.com/Vestallin" class="hlink">Vestallin</a>
+                </h3>
+            </div>
+        </div>
+        <br>
+        <div class="box">
+            <h3>Use SHIFT + Left Click to do a multi-column sort</h3>
+            <br>
+            <h3>Click on Ship Name for further details</h3>
+        </div>
+        <br>
+        <button class="button">Reset Sort</button>
+        <br>
+        <div class="display_table">
+            <table id="table" class="tablesorter">
+                <thead>
+                    <tr>
+                        <th class="sorter-text">ID</th>
+                        <th>Ship Name</th>
+                        <th>Type</th>
+                        <th>Rarity</th>
+                        <th>Faction</th>
+                        <th>Armor</th>
+                        <th>HP</th>
+                        <th>FP</th>
+                        <th>TRP</th>
+                        <th>AVI</th>
+                        <th>AA</th>
+                        <th>RLD</th>
+                        <th>EVA</th>
+                        <th>SPD</th>
+                        <th>ACC</th>
+                        <th>LCK</th>
+                        <th>ASW</th>
+                        <th>OIL</th>
+                        <th>OXY</th>
+                        <th>Ammo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for val in table %}
+                        <tr>
+                            <td>{{ val.sid }}</td>
+                            <td>
+                                <a href="https://azurlane.koumakan.jp/wiki/{{ val.ship_name|link_filter }}"
+                                   class="slink">{{ val.ship_name }}</a>
+                            </td>
+                            <td>{{ val.class_name }}</td>
+                            <td class="{{ val.rarity|color_filter }}">{{ val.rarity }}</td>
+                            <td>{{ val.faction }}</td>
+                            <td>{{ val.armor }}</td>
+                            <td>{{ val.hp }}</td>
+                            <td>{{ val.fp }}</td>
+                            <td>{{ val.trp }}</td>
+                            <td>{{ val.avi }}</td>
+                            <td>{{ val.aa }}</td>
+                            <td>{{ val.rld }}</td>
+                            <td>{{ val.eva }}</td>
+                            <td>{{ val.spd }}</td>
+                            <td>{{ val.acc }}</td>
+                            <td>{{ val.lck }}</td>
+                            <td>{{ val.asw }}</td>
+                            <td>{{ val.oil }}</td>
+                            <td>{{ val.oxy }}</td>
+                            <td>{{ val.ammo }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </div>
+        </table>
+    </body>
 </html>

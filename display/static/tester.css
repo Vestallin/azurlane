@@ -1,11 +1,13 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgrey;
 }
 
-table, th, td {
-    border: 1px solid;
-    text-align: center;
+table,
+th,
+td {
+  border: 1px solid;
+  text-align: center;
 }
 
 .box {
@@ -15,15 +17,17 @@ table, th, td {
   border-color: black;
   border: 3px black dotted;
 }
+
 .banner {
-    text-align: center;
-    background-image: url("banner.png");
-    background-size: 100%;
-    background-position: top center;
-    background-repeat: no-repeat;
-    padding: 40px;
+  text-align: center;
+  background-image: url("banner.png");
+  background-size: 100%;
+  background-position: top center;
+  background-repeat: no-repeat;
+  padding: 40px;
 }
-.banner-text{
+
+.banner-text {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
@@ -31,20 +35,21 @@ table, th, td {
   text-emphasis-style: bold;
   text-shadow: 2px 2px black;
 }
+
 table {
-    margin-left: auto;
-    margin-right: auto;
-    background-color: white;
-    table-layout: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  table-layout: fixed;
 }
 
 th {
-    background-color: #749cf2;
-    padding: 20px;
+  background-color: #749cf2;
+  padding: 20px;
 }
 
 ul {
-    align-items: center;
+  align-items: center;
 }
 
 .hlink {
@@ -53,31 +58,40 @@ ul {
   font-style: italic;
 }
 
-  .common {
-    background: lightgrey !important;
-  }
+.common {
+  background: lightgrey !important;
+}
 
-  .rare {
-    background: lightskyblue !important;
-  }
+.rare {
+  background: lightskyblue !important;
+}
 
-  .elite {
-    background: violet !important;
-  }
+.elite {
+  background: violet !important;
+}
 
-  .srare {
-    background: gold !important;
-  }
+.srare {
+  background: gold !important;
+}
 
-  .urare {
-    background: linear-gradient(120deg,#fbffca,#baffbf,#a7efff,#ffabff) !important;
-  }
-  
-  .button {
-    background: red;
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-    font-size: 20px;
-    color: azure;
-  }
+.urare {
+  background: linear-gradient(120deg, #fbffca, #baffbf, #a7efff, #ffabff) !important;
+}
+
+.button {
+  background: red;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-size: 20px;
+  color: azure;
+}
+
+.slink {
+  color: black;
+  text-decoration: none;
+}
+
+.display_table {
+  overflow-x: auto;
+}

@@ -66,7 +66,8 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
             ],
-            'libraries': {'color_filter': 'display.templatetags.color_filter'}
+            'libraries': {'color_filter': 'display.templatetags.color_filter', 
+                          'link_filter': 'display.templatetags.link_filter'}
         },
     },
 ]
