@@ -57,11 +57,10 @@
             <form action='' method="post">
                 {% csrf_token %}
                 <label for="faction">Select Faction</label>
-                <select class="js-example-theme-multiple"
+                <select class="js-example-theme-multiple filter"
                         name="ships"
                         id="faction"
-                        multiple="multiple"
-                        style="width: 60%">
+                        multiple="multiple">
                     {% for val in selection %}<option value="{{ val.faction }}">{{ val.faction }}</option>{% endfor %}
                 </select>
                 <input type="submit" value="Submit Result">
