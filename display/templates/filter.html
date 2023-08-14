@@ -6,7 +6,6 @@
     <head>
         <meta name="keywords" content="AL" />
         <meta name="description" content="Simple AL Database" />
-
         <title>About Page</title>
         {% load bootstrap5 %}
         {% bootstrap_css %}
@@ -50,28 +49,27 @@
         </div>
         <br>
         <div class="center">
-            <a href="{% url 'table' %}"> Homepage </a>
-            <a href="{% url "filter" %}" class="active"> Faction Filter </a>
+            <a href="{% url 'table' %}">Homepage</a>
+            <a href="{% url "filter" %}" class="active">Faction Filter</a>
         </div>
         <br>
         <div class="center">
-                        <form action='' method="post">
-            {% csrf_token %}
-            <label for="faction"> Select Faction
-            </label>
-            <select class="js-example-theme-multiple"
-                    name="ships"
-                    id="faction"
-                    multiple="multiple"
-                    style="width: 60%"
-                    >
-                {% for val in selection %}<option value="{{ val.faction }}">{{ val.faction }}</option>{% endfor %}
-            </select>
-            <input type="submit" value="Submit Result">
-        </form>
+            <form action='' method="post">
+                {% csrf_token %}
+                <label for="faction">Select Faction</label>
+                <select class="js-example-theme-multiple"
+                        name="ships"
+                        id="faction"
+                        multiple="multiple"
+                        style="width: 60%">
+                    {% for val in selection %}<option value="{{ val.faction }}">{{ val.faction }}</option>{% endfor %}
+                </select>
+                <input type="submit" value="Submit Result">
+            </form>
         </div>
-
-        <br><br><br>
+        <br>
+        <br>
+        <br>
         <div class="display_table">
             <table id="table" class="tablesorter">
                 {% if post %}
