@@ -95,3 +95,31 @@ ul {
 .display_table {
   overflow-x: auto;
 }
+
+.filter {
+  width: 50%;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.center a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: lightslategray;
+}
+
+.center a:hover {
+  color: red;
+  background-color: gold;
+}
+
+.center a.active {
+  background-color: skyblue;
+  color: black;
+}

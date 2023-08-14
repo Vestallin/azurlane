@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+{% load static %}
+{% load color_filter %}
+{% load link_filter %}
+<html lang="en">
+    <head>
+        <meta name="keywords" content="AL" />
+        <meta name="description" content="Simple AL Database" />
+
+        <title>About Page</title>
+        {% load bootstrap5 %}
+        {% bootstrap_css %}
+        {% bootstrap_javascript %}
+        <link rel="stylesheet"
+              href="{% static '/tablesorter-master/dist/css/theme.default.css' %}">
+        <!-- load jQuery and tablesorter scripts -->
+        <script type="text/javascript" src="{% static 'jquery-3.7.0.js'%}"></script>
+        <script type="text/javascript"
+                src="{% static '/tablesorter-master/dist/js/jquery.tablesorter.js' %}"></script>
+        <!-- tablesorter widgets (optional) -->
+        <script type="text/javascript"
+                src="{% static '/tablesorter-master/dist/js/jquery.tablesorter.widgets.js' %}"></script>
+        <link rel="stylesheet"
+              href="{% static '/select2/dist/css/select2.min.css' %}">
+        <script type="text/javascript"
+                src="{% static '/select2/dist/js/select2.min.js'%}"></script>
+        <script>
+            $(document).ready(function() {
+            $('.js-example-theme-multiple').select2({theme: "classic"});
+            $(function() {
+                $('table').tablesorter();
+                
+                $('button').click(function() {
+                  $('table').trigger('sortReset');
+                    return false;
+                });
+              });
+        });
+        </script>
+        <link rel="stylesheet" href="{% static 'tester.css' %}" />
+    </head>
+    <body>
+        <div class="banner">
+            <div class="banner-text">
+                <h1>Azur Lane Database</h1>
+                <h3>
+                    by <a href="https://github.com/Vestallin" class="hlink">Vestallin</a>
+                </h3>
+            </div>
+        </div>
+        <br>
+        <div class="center">
+            <a href="{% url 'table' %}"> Homepage </a>
+            <a href="{% url "filter" %}" class="active"> Faction Filter </a>
+        </div>
+        <br>
+        <div class="center">
+                        <form action='' method="post">
+            {% csrf_token %}
+            <label for="faction"> Select Faction
+            </label>
+            <select class="js-example-theme-multiple"
+                    name="ships"
+                    id="faction"
+                    multiple="multiple"
+                    style="width: 60%"
+                    >
+                {% for val in selection %}<option value="{{ val.faction }}">{{ val.faction }}</option>{% endfor %}
+            </select>
+            <input type="submit" value="Submit Result">
+        </form>
+        </div>
+
+        <br><br><br>
+        <div class="display_table">
+            <table id="table" class="tablesorter">
+                {% if post %}
+                    <thead>
+                        <tr>
+                            <th class="sorter-text">ID</th>
+                            <th>Ship Name</th>
+                            <th>Type</th>
+                            <th>Rarity</th>
+                            <th>Faction</th>
+                            <th>Armor</th>
+                            <th>HP</th>
+                            <th>FP</th>
+                            <th>TRP</th>
+                            <th>AVI</th>
+                            <th>AA</th>
+                            <th>RLD</th>
+                            <th>EVA</th>
+                            <th>SPD</th>
+                            <th>ACC</th>
+                            <th>LCK</th>
+                            <th>ASW</th>
+                            <th>OIL</th>
+                            <th>OXY</th>
+                            <th>Ammo</th>
+                        </tr>
+                    </thead>
+                {% endif %}
+                <tbody>
+                    {% for val in post %}
+                        <tr>
+                            <td>{{ val.sid }}</td>
+                            <td>
+                                <a href="https://azurlane.koumakan.jp/wiki/{{ val.ship_name|link_filter }}"
+                                   class="slink">{{ val.ship_name }}</a>
+                            </td>
+                            <td>{{ val.class_name }}</td>
+                            <td class="{{ val.rarity|color_filter }}">{{ val.rarity }}</td>
+                            <td>{{ val.faction }}</td>
+                            <td>{{ val.armor }}</td>
+                            <td>{{ val.hp }}</td>
+                            <td>{{ val.fp }}</td>
+                            <td>{{ val.trp }}</td>
+                            <td>{{ val.avi }}</td>
+                            <td>{{ val.aa }}</td>
+                            <td>{{ val.rld }}</td>
+                            <td>{{ val.eva }}</td>
+                            <td>{{ val.spd }}</td>
+                            <td>{{ val.acc }}</td>
+                            <td>{{ val.lck }}</td>
+                            <td>{{ val.asw }}</td>
+                            <td>{{ val.oil }}</td>
+                            <td>{{ val.oxy }}</td>
+                            <td>{{ val.ammo }}</td>
+                        </tr>
+                    {% empty %}
+                        <h1 class="center">Nothing to see here!</h1>
+                    {% endfor %}
+                </tbody>
+            </div>
+        </table>
+    </body>
+</html>
